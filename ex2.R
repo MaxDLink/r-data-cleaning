@@ -3,6 +3,7 @@
 # Check the data with the function summary()
 
 # ensure you get the appropriate statistics for all columns.
+library(tidyverse)
 
 data <- read.csv("data.csv")
 
