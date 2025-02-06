@@ -1,0 +1,1035 @@
+"","First.Name","Last.Name","Team","Position","Height.inches.","Weight.pounds.","Age","BMI"
+"1","Jeff","Mathis","ANA","Catcher",72,180,23.92,2.5
+"2","Mike","Napoli","ANA","Catcher",72,205,25.33,2.84722222222222
+"3","Jose","Molina","ANA","Catcher",74,220,31.74,2.97297297297297
+"4","Howie","Kendrick","ANA","First Baseman",70,180,23.64,2.57142857142857
+"5","Kendry","Morales","ANA","First Baseman",73,220,23.7,3.01369863013699
+"6","Casey","Kotchman","ANA","First Baseman",75,210,24.02,2.8
+"7","Robb","Quinlan","ANA","First Baseman",73,200,29.95,2.73972602739726
+"8","Shea","Hillenbrand","ANA","First Baseman",73,211,31.59,2.89041095890411
+"9","Terry","Evans","ANA","Outfielder",75,200,25.11,2.66666666666667
+"10","Reggie","Willits","ANA","Outfielder",71,185,25.75,2.6056338028169
+"11","Tommy","Murphy","ANA","Outfielder",72,185,27.51,2.56944444444444
+"12","Juan","Rivera","ANA","Outfielder",74,205,28.66,2.77027027027027
+"13","Chone","Figgins","ANA","Outfielder",68,160,29.1,2.35294117647059
+"14","Vladimir","Guerrero","ANA","Outfielder",75,220,31.06,2.93333333333333
+"15","Gary","Matthews","ANA","Outfielder",75,225,32.51,3
+"16","Garret","Anderson","ANA","Outfielder",75,225,34.67,3
+"17","Chris","Resop","ANA","Relief Pitcher",75,222,24.32,2.96
+"18","Francisco","Rodriguez","ANA","Relief Pitcher",72,185,25.14,2.56944444444444
+"19","Phil","Seibel","ANA","Relief Pitcher",73,195,28.09,2.67123287671233
+"20","Greg","Jones","ANA","Relief Pitcher",74,195,30.29,2.63513513513514
+"21","Scot","Shields","ANA","Relief Pitcher",73,170,31.61,2.32876712328767
+"22","Justin","Speier","ANA","Relief Pitcher",76,205,33.31,2.69736842105263
+"23","Darren","Oliver","ANA","Relief Pitcher",74,220,36.4,2.97297297297297
+"24","Hector","Carrasco","ANA","Relief Pitcher",74,220,37.36,2.97297297297297
+"25","Erick","Aybar","ANA","Shortstop",70,170,23.13,2.42857142857143
+"26","Orlando","Cabrera","ANA","Shortstop",70,190,32.33,2.71428571428571
+"27","Ervin","Santana","ANA","Starting Pitcher",74,160,24.14,2.16216216216216
+"28","Jered","Weaver","ANA","Starting Pitcher",79,205,24.41,2.59493670886076
+"29","Joe","Saunders","ANA","Starting Pitcher",74,200,25.71,2.7027027027027
+"30","John","Lackey","ANA","Starting Pitcher",78,235,28.35,3.01282051282051
+"31","Kelvim","Escobar","ANA","Starting Pitcher",73,210,30.89,2.87671232876712
+"32","Bartolo","Colon","ANA","Starting Pitcher",71,250,33.77,3.52112676056338
+"33","Dustin","Moseley","ANA","Starting Pitcher",76,190,37.74,2.5
+"34","Maicer","Izturis","ANA","Third Baseman",68,155,26.46,2.27941176470588
+"35","Dallas","McPherson","ANA","Third Baseman",76,230,26.6,3.02631578947368
+"36","Miguel","Montero","ARZ","Catcher",71,197,23.64,2.77464788732394
+"37","Chris","Snyder","ARZ","Catcher",75,220,26.05,2.93333333333333
+"38","Conor","Jackson","ARZ","First Baseman",74,225,24.82,3.04054054054054
+"39","Robby","Hammock","ARZ","First Baseman",70,187,29.8,2.67142857142857
+"40","Tony","Clark","ARZ","First Baseman",79,245,34.71,3.10126582278481
+"41","Chris","Young","ARZ","Outfielder",74,180,23.49,2.43243243243243
+"42","Carlos","Quentin","ARZ","Outfielder",73,225,24.51,3.08219178082192
+"43","Scott","Hairston","ARZ","Outfielder",72,188,26.77,2.61111111111111
+"44","Eric","Byrnes","ARZ","Outfielder",74,210,31.04,2.83783783783784
+"45","Jeff","DaVanon","ARZ","Outfielder",72,200,33.23,2.77777777777778
+"46","Edgar","Gonzalez","ARZ","Relief Pitcher",72,215,24.02,2.98611111111111
+"47","Tony","Pe?a","ARZ","Relief Pitcher",74,190,25.14,2.56756756756757
+"48","Doug","Slaten","ARZ","Relief Pitcher",77,200,27.07,2.5974025974026
+"49","Brandon","Medders","ARZ","Relief Pitcher",73,191,27.09,2.61643835616438
+"50","Brandon","Lyon","ARZ","Relief Pitcher",73,180,27.56,2.46575342465753
+"51","Jose","Valverde","ARZ","Relief Pitcher",76,254,27.6,3.3421052631579
+"52","Jorge","Julio","ARZ","Relief Pitcher",73,232,27.99,3.17808219178082
+"53","Orlando","Hudson","ARZ","Second Baseman",72,185,29.22,2.56944444444444
+"54","Alberto","Callaspo","ARZ","Shortstop",70,175,23.87,2.5
+"55","Stephen","Drew","ARZ","Shortstop",72,185,23.96,2.56944444444444
+"56","Dana","Eveland","ARZ","Starting Pitcher",73,250,23.34,3.42465753424658
+"57","Enrique","Gonzalez","ARZ","Starting Pitcher",70,210,24.57,3
+"58","Brandon","Webb","ARZ","Starting Pitcher",74,228,27.81,3.08108108108108
+"59","Juan","Cruz","ARZ","Starting Pitcher",74,165,28.38,2.22972972972973
+"60","Doug","Davis","ARZ","Starting Pitcher",76,213,31.44,2.80263157894737
+"61","Livan","Hernandez","ARZ","Starting Pitcher",74,245,32.02,3.31081081081081
+"62","Randy","Johnson","ARZ","Starting Pitcher",82,231,43.47,2.81707317073171
+"63","Chad","Tracy","ARZ","Third Baseman",74,200,26.77,2.7027027027027
+"64","Brian","McCann","ATL","Catcher",75,210,23.03,2.8
+"65","Brayan","Pe?a","ATL","Catcher",71,220,25.14,3.09859154929577
+"66","Craig","Wilson","ATL","First Baseman",74,220,30.25,2.97297297297297
+"67","Jeff","Francoeur","ATL","Outfielder",76,220,23.14,2.89473684210526
+"68","Kelly","Johnson","ATL","Outfielder",73,180,25.02,2.46575342465753
+"69","Scott","Thorman","ATL","Outfielder",75,200,25.15,2.66666666666667
+"70","Ryan","Langerhans","ATL","Outfielder",75,195,27.03,2.6
+"71","T.J.","Bohn","ATL","Outfielder",77,200,27.12,2.5974025974026
+"72","Matt","Diaz","ATL","Outfielder",73,206,28.99,2.82191780821918
+"73","Andruw","Jones","ATL","Outfielder",73,210,29.85,2.87671232876712
+"74","Joey","Devine","ATL","Relief Pitcher",71,195,23.45,2.74647887323944
+"75","Macay","McBride","ATL","Relief Pitcher",71,210,24.35,2.95774647887324
+"76","Oscar","Villarreal","ATL","Relief Pitcher",72,205,25.27,2.84722222222222
+"77","Blaine","Boyer","ATL","Relief Pitcher",75,190,25.64,2.53333333333333
+"78","Manny","Acosta","ATL","Relief Pitcher",76,170,25.83,2.23684210526316
+"79","Lance","Cormier","ATL","Relief Pitcher",73,192,26.53,2.63013698630137
+"80","Phil","Stockman","ATL","Relief Pitcher",80,240,27.1,3
+"81","Rafael","Soriano","ATL","Relief Pitcher",73,175,27.2,2.3972602739726
+"82","Peter","Moylan","ATL","Relief Pitcher",74,200,28.24,2.7027027027027
+"83","Mike","Gonzalez","ATL","Relief Pitcher",74,205,28.77,2.77027027027027
+"84","Tyler","Yates","ATL","Relief Pitcher",76,220,29.56,2.89473684210526
+"85","Chad","Paronto","ATL","Relief Pitcher",77,250,31.59,3.24675324675325
+"86","Tanyon","Sturtze","ATL","Relief Pitcher",77,200,36.38,2.5974025974026
+"87","Bob","Wickman","ATL","Relief Pitcher",73,240,38.06,3.28767123287671
+"88","Martin","Prado","ATL","Second Baseman",73,170,23.34,2.32876712328767
+"89","Pete","Orr","ATL","Second Baseman",73,175,27.73,2.3972602739726
+"90","Chris","Woodward","ATL","Second Baseman",72,185,30.67,2.56944444444444
+"91","Tony","Pe?a","ATL","Shortstop",73,180,25.94,2.46575342465753
+"92","Edgar","Renteria","ATL","Shortstop",73,200,31.56,2.73972602739726
+"93","Kyle","Davies","ATL","Starting Pitcher",74,205,23.47,2.77027027027027
+"94","Chuck","James","ATL","Starting Pitcher",72,170,25.31,2.36111111111111
+"95","Tim","Hudson","ATL","Starting Pitcher",73,164,31.63,2.24657534246575
+"96","Jonathan","Johnson","ATL","Starting Pitcher",72,180,32.62,2.5
+"97","Mike","Hampton","ATL","Starting Pitcher",70,195,34.47,2.78571428571429
+"98","John","Smoltz","ATL","Starting Pitcher",75,220,39.79,2.93333333333333
+"99","Willy","Aybar","ATL","Third Baseman",72,175,23.98,2.43055555555556
+"100","Chipper","Jones","ATL","Third Baseman",76,210,34.85,2.76315789473684
+"101","Adam","Donachie","BAL","Catcher",74,180,22.99,2.43243243243243
+"102","Ramon","Hernandez","BAL","Catcher",72,210,30.78,2.91666666666667
+"103","Paul","Bako","BAL","Catcher",74,215,34.69,2.9054054054054
+"104","Jay","Gibbons","BAL","Designated Hitter",72,197,30,2.73611111111111
+"105","Kevin","Millar","BAL","First Baseman",72,210,35.43,2.91666666666667
+"106","Chris","Gomez","BAL","First Baseman",73,188,35.71,2.57534246575342
+"107","Nick","Markakis","BAL","Outfielder",74,185,23.29,2.5
+"108","Jeff","Fiorentino","BAL","Outfielder",73,188,23.88,2.57534246575342
+"109","Brandon","Fahey","BAL","Outfielder",74,160,26.11,2.16216216216216
+"110","Freddie","Bynum","BAL","Outfielder",73,180,26.96,2.46575342465753
+"111","Adam","Stern","BAL","Outfielder",71,180,27.05,2.53521126760563
+"112","Corey","Patterson","BAL","Outfielder",69,180,27.55,2.60869565217391
+"113","Jay","Payton","BAL","Outfielder",70,185,34.27,2.64285714285714
+"114","James","Hoey","BAL","Relief Pitcher",78,200,24.17,2.56410256410256
+"115","Chris","Ray","BAL","Relief Pitcher",75,200,25.13,2.66666666666667
+"116","Brian","Burres","BAL","Relief Pitcher",73,182,25.89,2.49315068493151
+"117","Kurt","Birkins","BAL","Relief Pitcher",74,188,26.55,2.54054054054054
+"118","Sendy","Rleal","BAL","Relief Pitcher",73,180,26.69,2.46575342465753
+"119","Jeremy","Guthrie","BAL","Relief Pitcher",73,200,27.9,2.73972602739726
+"120","John","Parrish","BAL","Relief Pitcher",71,192,29.26,2.70422535211268
+"121","Danys","Baez","BAL","Relief Pitcher",75,225,29.47,3
+"122","Scott","Williamson","BAL","Relief Pitcher",72,180,31.03,2.5
+"123","Chad","Bradford","BAL","Relief Pitcher",77,203,32.46,2.63636363636364
+"124","Jamie","Walker","BAL","Relief Pitcher",74,195,35.67,2.63513513513514
+"125","Brian","Roberts","BAL","Second Baseman",69,176,29.39,2.55072463768116
+"126","Miguel","Tejada","BAL","Shortstop",69,209,30.77,3.02898550724638
+"127","Hayden","Penn","BAL","Starting Pitcher",75,185,22.38,2.46666666666667
+"128","Adam","Loewen","BAL","Starting Pitcher",78,219,22.89,2.80769230769231
+"129","Daniel","Cabrera","BAL","Starting Pitcher",79,230,25.76,2.91139240506329
+"130","Erik","Bedard","BAL","Starting Pitcher",73,189,27.99,2.58904109589041
+"131","Jaret","Wright","BAL","Starting Pitcher",74,230,31.17,3.10810810810811
+"132","Kris","Benson","BAL","Starting Pitcher",76,195,32.31,2.56578947368421
+"133","Steve","Trachsel","BAL","Starting Pitcher",76,205,36.33,2.69736842105263
+"134","Aubrey","Huff","BAL","Third Baseman",76,231,30.19,3.03947368421053
+"135","Melvin","Mora","BAL","Third Baseman",71,200,35.07,2.8169014084507
+"136","George","Kottaras","BOS","Catcher",72,180,23.79,2.5
+"137","Jason","Varitek","BOS","Catcher",74,230,34.89,3.10810810810811
+"138","Doug","Mirabelli","BOS","Catcher",73,220,36.37,3.01369863013699
+"139","David","Ortiz","BOS","Designated Hitter",76,230,31.28,3.02631578947368
+"140","Kevin","Youkilis","BOS","First Baseman",73,220,27.96,3.01369863013699
+"141","Brandon","Moss","BOS","Outfielder",72,180,23.46,2.5
+"142","Wily","Mo Pena","BOS","Outfielder",75,215,25.1,2.86666666666667
+"143","David","Murphy","BOS","Outfielder",76,192,25.37,2.52631578947368
+"144","Coco","Crisp","BOS","Outfielder",72,185,27.33,2.56944444444444
+"145","Eric","Hinske","BOS","Outfielder",74,235,29.57,3.17567567567568
+"146","J.D.","Drew","BOS","Outfielder",73,200,31.28,2.73972602739726
+"147","Manny","Ramirez","BOS","Outfielder",72,213,34.75,2.95833333333333
+"148","Craig","Hansen","BOS","Relief Pitcher",78,210,23.29,2.69230769230769
+"149","Nick","DeBarr","BOS","Relief Pitcher",76,220,23.52,2.89473684210526
+"150","Manny","Delcarmen","BOS","Relief Pitcher",74,190,25.03,2.56756756756757
+"151","Craig","Breslow","BOS","Relief Pitcher",73,180,26.56,2.46575342465753
+"152","Joel","Pineiro","BOS","Relief Pitcher",73,200,28.43,2.73972602739726
+"153","Javier","Lopez","BOS","Relief Pitcher",76,200,29.64,2.63157894736842
+"154","J.C.","Romero","BOS","Relief Pitcher",71,198,30.74,2.7887323943662
+"155","Hideki","Okajima","BOS","Relief Pitcher",73,194,31.18,2.65753424657534
+"156","Julian","Tavarez","BOS","Relief Pitcher",74,195,33.77,2.63513513513514
+"157","Brendan","Donnelly","BOS","Relief Pitcher",75,240,35.66,3.2
+"158","Mike","Timlin","BOS","Relief Pitcher",76,210,40.97,2.76315789473684
+"159","Dustin","Pedroia","BOS","Second Baseman",69,180,23.54,2.60869565217391
+"160","Julio","Lugo","BOS","Shortstop",73,170,31.29,2.32876712328767
+"161","Alex","Cora","BOS","Shortstop",72,180,31.37,2.5
+"162","Jon","Lester","BOS","Starting Pitcher",74,190,23.15,2.56756756756757
+"163","Kason","Gabbard","BOS","Starting Pitcher",75,200,24.9,2.66666666666667
+"164","Jonathan","Papelbon","BOS","Starting Pitcher",76,230,26.27,3.02631578947368
+"165","Josh","Beckett","BOS","Starting Pitcher",77,222,26.79,2.88311688311688
+"166","Devern","Hansack","BOS","Starting Pitcher",74,180,29.07,2.43243243243243
+"167","Kyle","Snyder","BOS","Starting Pitcher",80,220,29.47,2.75
+"168","Matt","Clement","BOS","Starting Pitcher",75,210,32.55,2.8
+"169","Curt","Schilling","BOS","Starting Pitcher",77,235,40.29,3.05194805194805
+"170","Tim","Wakefield","BOS","Starting Pitcher",74,210,40.58,2.83783783783784
+"171","Mike","Lowell","BOS","Third Baseman",75,210,33.01,2.8
+"172","Geovany","Soto","CHC","Catcher",73,195,24.11,2.67123287671233
+"173","Michael","Barrett","CHC","Catcher",75,210,30.35,2.8
+"174","Henry","Blanco","CHC","Catcher",71,224,35.5,3.15492957746479
+"175","Scott","Moore","CHC","First Baseman",74,180,23.29,2.43243243243243
+"176","Derrek","Lee","CHC","First Baseman",77,245,31.48,3.18181818181818
+"177","Buck","Coats","CHC","Outfielder",75,195,24.73,2.6
+"178","Matt","Murton","CHC","Outfielder",73,215,25.41,2.94520547945205
+"179","Angel","Pagan","CHC","Outfielder",73,180,25.66,2.46575342465753
+"180","Alfonso","Soriano","CHC","Outfielder",73,180,31.15,2.46575342465753
+"181","Daryle","Ward","CHC","Outfielder",74,230,31.68,3.10810810810811
+"182","Jacque","Jones","CHC","Outfielder",70,195,31.85,2.78571428571429
+"183","Mark","DeRosa","CHC","Outfielder",73,205,32.01,2.80821917808219
+"184","Cliff","Floyd","CHC","Outfielder",76,230,34.23,3.02631578947368
+"185","Neal","Cotts","CHC","Relief Pitcher",74,200,26.93,2.7027027027027
+"186","Roberto","Novoa","CHC","Relief Pitcher",77,200,27.54,2.5974025974026
+"187","Mike","Wuertz","CHC","Relief Pitcher",75,205,28.21,2.73333333333333
+"188","Will","Ohman","CHC","Relief Pitcher",74,205,29.55,2.77027027027027
+"189","Kerry","Wood","CHC","Relief Pitcher",77,225,29.71,2.92207792207792
+"190","Ryan","Dempster","CHC","Relief Pitcher",74,215,29.83,2.9054054054054
+"191","Bob","Howry","CHC","Relief Pitcher",77,220,33.57,2.85714285714286
+"192","Scott","Eyre","CHC","Relief Pitcher",73,210,34.75,2.87671232876712
+"193","Ryan","Theriot","CHC","Second Baseman",71,175,27.23,2.46478873239437
+"194","Ronny","Cedeno","CHC","Shortstop",72,180,24.07,2.5
+"195","Juan","Mateo","CHC","Starting Pitcher",74,180,24.2,2.43243243243243
+"196","Carlos","Marmol","CHC","Starting Pitcher",74,180,24.38,2.43243243243243
+"197","Sean","Marshall","CHC","Starting Pitcher",79,205,24.5,2.59493670886076
+"198","Angel","Guzman","CHC","Starting Pitcher",75,190,25.21,2.53333333333333
+"199","Carlos","Zambrano","CHC","Starting Pitcher",77,255,25.75,3.31168831168831
+"200","Mark","Prior","CHC","Starting Pitcher",77,230,26.48,2.98701298701299
+"201","Ryan","O'Malley","CHC","Starting Pitcher",73,190,26.89,2.6027397260274
+"202","Rich","Hill","CHC","Starting Pitcher",77,190,26.97,2.46753246753247
+"203","Jason","Marquis","CHC","Starting Pitcher",73,210,28.53,2.87671232876712
+"204","Wade","Miller","CHC","Starting Pitcher",74,220,30.46,2.97297297297297
+"205","Ted","Lilly","CHC","Starting Pitcher",73,190,31.15,2.6027397260274
+"206","Cesar","Izturis","CHC","Third Baseman",69,175,27.05,2.53623188405797
+"207","Aramis","Ramirez","CHC","Third Baseman",73,215,28.68,2.94520547945205
+"208","David","Ross","CIN","Catcher",74,205,29.95,2.77027027027027
+"209","Javier","Valentin","CIN","Catcher",70,192,31.45,2.74285714285714
+"210","Chad","Moeller","CIN","Catcher",75,210,32.03,2.8
+"211","Joey","Votto","CIN","First Baseman",75,200,23.47,2.66666666666667
+"212","Scott","Hatteberg","CIN","First Baseman",73,210,37.21,2.87671232876712
+"213","Josh","Hamilton","CIN","Outfielder",76,205,25.78,2.69736842105263
+"214","Chris","Denorfia","CIN","Outfielder",73,185,26.63,2.53424657534247
+"215","Adam","Dunn","CIN","Outfielder",78,240,27.31,3.07692307692308
+"216","Norris","Hopper","CIN","Outfielder",69,200,27.94,2.89855072463768
+"217","Bubba","Crosby","CIN","Outfielder",71,185,30.55,2.6056338028169
+"218","Ryan","Freel","CIN","Outfielder",70,180,30.98,2.57142857142857
+"219","Ken","Griffey","CIN","Outfielder",75,205,37.27,2.73333333333333
+"220","Jeff","Conine","CIN","Outfielder",73,220,40.68,3.01369863013699
+"221","Bill","Bray","CIN","Relief Pitcher",75,215,23.74,2.86666666666667
+"222","Bobby","Livingston","CIN","Relief Pitcher",75,190,24.49,2.53333333333333
+"223","Jared","Burton","CIN","Relief Pitcher",77,220,25.74,2.85714285714286
+"224","Todd","Coffey","CIN","Relief Pitcher",77,230,26.47,2.98701298701299
+"225","Matt","Belisle","CIN","Relief Pitcher",75,195,26.73,2.6
+"226","Gary","Majewski","CIN","Relief Pitcher",73,215,27.01,2.94520547945205
+"227","Brad","Salmon","CIN","Relief Pitcher",76,220,27.16,2.89473684210526
+"228","Brian","Shackelford","CIN","Relief Pitcher",73,195,30.5,2.67123287671233
+"229","David","Weathers","CIN","Relief Pitcher",75,230,37.43,3.06666666666667
+"230","Mike","Stanton","CIN","Relief Pitcher",73,215,39.75,2.94520547945205
+"231","Rheal","Cormier","CIN","Relief Pitcher",70,195,39.85,2.78571428571429
+"232","Brandon","Phillips","CIN","Second Baseman",71,185,25.67,2.6056338028169
+"233","Alex","Gonzalez","CIN","Shortstop",72,202,30.04,2.80555555555556
+"234","Juan","Castro","CIN","Shortstop",71,195,34.69,2.74647887323944
+"235","Elizardo","Ramirez","CIN","Starting Pitcher",72,180,24.09,2.5
+"236","Kirk","Saarloos","CIN","Starting Pitcher",72,230,27.77,3.19444444444444
+"237","Kyle","Lohse","CIN","Starting Pitcher",74,201,28.41,2.71621621621622
+"238","Aaron","Harang","CIN","Starting Pitcher",79,240,28.81,3.0379746835443
+"239","Bronson","Arroyo","CIN","Starting Pitcher",77,190,30.01,2.46753246753247
+"240","Eric","Milton","CIN","Starting Pitcher",75,208,31.57,2.77333333333333
+"241","Edwin","Encarnacion","CIN","Third Baseman",73,195,24.15,2.67123287671233
+"242","Jeff","Keppinger","CIN","Third Baseman",72,180,26.86,2.5
+"243","Mark","Bellhorn","CIN","Third Baseman",73,205,32.52,2.80821917808219
+"244","Kelly","Shoppach","CLE","Catcher",73,210,26.84,2.87671232876712
+"245","Victor","Martinez","CLE","Catcher",74,190,28.19,2.56756756756757
+"246","Travis","Hafner","CLE","Designated Hitter",75,240,29.74,3.2
+"247","Ryan","Garko","CLE","First Baseman",74,225,26.16,3.04054054054054
+"248","Franklin","Gutierrez","CLE","Outfielder",74,175,24.02,2.36486486486486
+"249","Grady","Sizemore","CLE","Outfielder",74,200,24.58,2.7027027027027
+"250","Shin-Soo","Choo","CLE","Outfielder",71,178,24.63,2.50704225352113
+"251","Ben","Francisco","CLE","Outfielder",73,180,25.35,2.46575342465753
+"252","Jason","Michaels","CLE","Outfielder",72,204,30.82,2.83333333333333
+"253","Trot","Nixon","CLE","Outfielder",74,211,32.89,2.85135135135135
+"254","David","Dellucci","CLE","Outfielder",71,190,33.33,2.67605633802817
+"255","Casey","Blake","CLE","Outfielder",74,210,33.52,2.83783783783784
+"256","Edward","Mujica","CLE","Relief Pitcher",74,220,22.81,2.97297297297297
+"257","Fausto","Carmona","CLE","Relief Pitcher",76,220,23.23,2.89473684210526
+"258","Rafael","Perez","CLE","Relief Pitcher",75,185,24.96,2.46666666666667
+"259","Fernando","Cabrera","CLE","Relief Pitcher",76,170,25.29,2.23684210526316
+"260","Brian","Slocum","CLE","Relief Pitcher",76,200,25.93,2.63157894736842
+"261","Tom","Mastny","CLE","Relief Pitcher",78,220,26.07,2.82051282051282
+"262","Juan","Lara","CLE","Relief Pitcher",74,190,26.09,2.56756756756757
+"263","Jason","Davis","CLE","Relief Pitcher",78,210,26.81,2.69230769230769
+"264","Rafael","Betancourt","CLE","Relief Pitcher",74,200,31.84,2.7027027027027
+"265","Aaron","Fultz","CLE","Relief Pitcher",72,205,33.49,2.84722222222222
+"266","Matt","Miller","CLE","Relief Pitcher",75,215,35.27,2.86666666666667
+"267","Joe","Borowski","CLE","Relief Pitcher",74,225,35.82,3.04054054054054
+"268","Roberto","Hernandez","CLE","Relief Pitcher",76,250,42.3,3.28947368421053
+"269","Josh","Barfield","CLE","Second Baseman",72,185,24.2,2.56944444444444
+"270","Hector","Luna","CLE","Second Baseman",73,170,27.08,2.32876712328767
+"271","Joe","Inglett","CLE","Second Baseman",70,180,28.67,2.57142857142857
+"272","Jhonny","Peralta","CLE","Shortstop",73,185,24.76,2.53424657534247
+"273","Jeremy","Sowers","CLE","Starting Pitcher",73,175,23.79,2.3972602739726
+"274","C.C.","Sabathia","CLE","Starting Pitcher",79,290,26.61,3.67088607594937
+"275","Cliff","Lee","CLE","Starting Pitcher",75,190,28.5,2.53333333333333
+"276","Jake","Westbrook","CLE","Starting Pitcher",75,185,29.42,2.46666666666667
+"277","Paul","Byrd","CLE","Starting Pitcher",73,190,36.24,2.6027397260274
+"278","Andy","Marte","CLE","Third Baseman",73,185,23.36,2.53424657534247
+"279","Chris","Iannetta","COL","Catcher",71,195,23.9,2.74647887323944
+"280","Alvin","Colina","COL","Catcher",75,209,25.18,2.78666666666667
+"281","Yorvit","Torrealba","COL","Catcher",71,190,28.62,2.67605633802817
+"282","Javy","Lopez","COL","Designated Hitter",75,224,36.32,2.98666666666667
+"283","Todd","Helton","COL","First Baseman",74,204,33.53,2.75675675675676
+"284","Willy","Taveras","COL","Outfielder",72,160,25.18,2.22222222222222
+"285","Jeff","Baker","COL","Outfielder",74,210,25.69,2.83783783783784
+"286","Jeff","Salazar","COL","Outfielder",72,180,26.26,2.5
+"287","Matt","Holliday","COL","Outfielder",76,235,27.12,3.0921052631579
+"288","Ryan","Spilborghs","COL","Outfielder",73,190,27.49,2.6027397260274
+"289","Cory","Sullivan","COL","Outfielder",72,180,27.53,2.5
+"290","Brad","Hawpe","COL","Outfielder",75,200,27.69,2.66666666666667
+"291","Juan","Morillo","COL","Relief Pitcher",73,190,23.32,2.6027397260274
+"292","Manny","Corpas","COL","Relief Pitcher",75,170,24.24,2.26666666666667
+"293","Ramon","Ramirez","COL","Relief Pitcher",71,190,25.5,2.67605633802817
+"294","Ryan","Speier","COL","Relief Pitcher",79,200,27.6,2.53164556962025
+"295","Jeremy","Affeldt","COL","Relief Pitcher",76,215,27.73,2.82894736842105
+"296","Brian","Fuentes","COL","Relief Pitcher",76,220,31.56,2.89473684210526
+"297","LaTroy","Hawkins","COL","Relief Pitcher",77,215,34.19,2.79220779220779
+"298","Tom","Martin","COL","Relief Pitcher",73,206,36.78,2.82191780821918
+"299","Kaz","Matsui","COL","Second Baseman",70,185,31.35,2.64285714285714
+"300","Jamey","Carroll","COL","Second Baseman",69,170,33.03,2.46376811594203
+"301","Troy","Tulowitzki","COL","Shortstop",75,205,22.39,2.73333333333333
+"302","Clint","Barmes","COL","Shortstop",72,175,27.99,2.43055555555556
+"303","Ubaldo","Jimenez","COL","Starting Pitcher",76,200,23.1,2.63157894736842
+"304","Jason","Hirsh","COL","Starting Pitcher",80,250,25.02,3.125
+"305","Taylor","Buchholz","COL","Starting Pitcher",76,220,25.38,2.89473684210526
+"306","Jeff","Francis","COL","Starting Pitcher",77,200,26.14,2.5974025974026
+"307","Denny","Bautista","COL","Starting Pitcher",77,170,26.52,2.20779220779221
+"308","Aaron","Cook","COL","Starting Pitcher",75,205,28.06,2.73333333333333
+"309","Byung-Hyun","Kim","COL","Starting Pitcher",69,180,28.11,2.60869565217391
+"310","Josh","Fogg","COL","Starting Pitcher",72,203,30.21,2.81944444444444
+"311","Brian","Lawrence","COL","Starting Pitcher",72,197,30.8,2.73611111111111
+"312","Rodrigo","Lopez","COL","Starting Pitcher",73,190,31.21,2.6027397260274
+"313","Garrett","Atkins","COL","Third Baseman",75,210,27.22,2.8
+"314","A.J.","Pierzynski","CWS","Catcher",75,245,30.17,3.26666666666667
+"315","Toby","Hall","CWS","Catcher",75,240,31.36,3.2
+"316","Jerry","Owens","CWS","Designated Hitter",75,195,26.03,2.6
+"317","Jim","Thome","CWS","Designated Hitter",76,244,36.51,3.21052631578947
+"318","Paul","Konerko","CWS","First Baseman",74,215,30.99,2.9054054054054
+"319","Ryan","Sweeney","CWS","Outfielder",76,200,22.02,2.63157894736842
+"320","Brian","N. Anderson","CWS","Outfielder",74,205,24.97,2.77027027027027
+"321","Luis","Terrero","CWS","Outfielder",74,206,26.78,2.78378378378378
+"322","Rob","Mackowiak","CWS","Outfielder",70,195,30.69,2.78571428571429
+"323","Scott","Podsednik","CWS","Outfielder",72,188,30.95,2.61111111111111
+"324","Pablo","Ozuna","CWS","Outfielder",70,186,32.51,2.65714285714286
+"325","Darin","Erstad","CWS","Outfielder",74,210,32.74,2.83783783783784
+"326","Jermaine","Dye","CWS","Outfielder",77,220,33.09,2.85714285714286
+"327","Boone","Logan","CWS","Relief Pitcher",77,200,22.55,2.5974025974026
+"328","Andrew","Sisco","CWS","Relief Pitcher",81,260,24.13,3.20987654320988
+"329","Nick","Masset","CWS","Relief Pitcher",76,190,24.79,2.5
+"330","David","Aardsma","CWS","Relief Pitcher",77,200,25.17,2.5974025974026
+"331","Bobby","Jenks","CWS","Relief Pitcher",75,270,25.96,3.6
+"332","Sean","Tracey","CWS","Relief Pitcher",75,210,26.29,2.8
+"333","Mike","MacDougal","CWS","Relief Pitcher",76,195,29.99,2.56578947368421
+"334","Matt","Thornton","CWS","Relief Pitcher",78,228,30.46,2.92307692307692
+"335","Tadahito","Iguchi","CWS","Second Baseman",69,185,32.24,2.68115942028985
+"336","Juan","Uribe","CWS","Shortstop",71,175,27.61,2.46478873239437
+"337","Alex","Cintron","CWS","Shortstop",74,199,28.2,2.68918918918919
+"338","Charlie","Haeger","CWS","Starting Pitcher",73,200,23.45,2.73972602739726
+"339","Gavin","Floyd","CWS","Starting Pitcher",76,212,24.09,2.78947368421053
+"340","Heath","Phillips","CWS","Starting Pitcher",75,200,24.94,2.66666666666667
+"341","Jon","Garland","CWS","Starting Pitcher",78,210,27.43,2.69230769230769
+"342","Mark","Buehrle","CWS","Starting Pitcher",74,220,27.94,2.97297297297297
+"343","Javier","Vazquez","CWS","Starting Pitcher",74,205,30.6,2.77027027027027
+"344","Jose","Contreras","CWS","Starting Pitcher",76,224,35.23,2.94736842105263
+"345","Josh","Fields","CWS","Third Baseman",73,215,24.21,2.94520547945205
+"346","Joe","Crede","CWS","Third Baseman",73,200,28.85,2.73972602739726
+"347","Vance","Wilson","DET","Catcher",71,190,33.95,2.67605633802817
+"348","Ivan","Rodriguez","DET","Catcher",69,218,35.25,3.15942028985507
+"349","Mike","Rabelo","DET","Designated Hitter",73,200,27.12,2.73972602739726
+"350","Chris","Shelton","DET","First Baseman",72,220,26.68,3.05555555555556
+"351","Sean","Casey","DET","First Baseman",76,225,32.66,2.96052631578947
+"352","Brent","Clevlen","DET","Outfielder",74,190,23.34,2.56756756756757
+"353","Curtis","Granderson","DET","Outfielder",73,185,25.96,2.53424657534247
+"354","Marcus","Thames","DET","Outfielder",74,205,29.98,2.77027027027027
+"355","Craig","Monroe","DET","Outfielder",73,220,30,3.01369863013699
+"356","Magglio","Ordo?ez","DET","Outfielder",72,215,33.09,2.98611111111111
+"357","Gary","Sheffield","DET","Outfielder",72,205,38.28,2.84722222222222
+"358","Andrew","Miller","DET","Relief Pitcher",78,210,21.78,2.69230769230769
+"359","Joel","Zumaya","DET","Relief Pitcher",75,210,22.31,2.8
+"360","Yorman","Bazardo","DET","Relief Pitcher",74,202,22.64,2.72972972972973
+"361","Edward","Campusano","DET","Relief Pitcher",76,170,24.63,2.23684210526316
+"362","Jordan","Tata","DET","Relief Pitcher",78,220,25.44,2.82051282051282
+"363","Wilfredo","Ledezma","DET","Relief Pitcher",76,212,26.11,2.78947368421053
+"364","Roman","Colon","DET","Relief Pitcher",78,225,27.55,2.88461538461538
+"365","Chad","Durbin","DET","Relief Pitcher",74,200,29.24,2.7027027027027
+"366","Fernando","Rodney","DET","Relief Pitcher",71,208,29.95,2.92957746478873
+"367","Jason","Grilli","DET","Relief Pitcher",77,210,30.3,2.72727272727273
+"368","Todd","Jones","DET","Relief Pitcher",75,230,38.85,3.06666666666667
+"369","Jose","Mesa","DET","Relief Pitcher",75,232,40.77,3.09333333333333
+"370","Omar","Infante","DET","Second Baseman",72,176,25.18,2.44444444444444
+"371","Placido","Polanco","DET","Second Baseman",70,190,31.39,2.71428571428571
+"372","Neifi","Perez","DET","Second Baseman",72,197,33.74,2.73611111111111
+"373","Tony","Giarratano","DET","Shortstop",72,180,24.25,2.5
+"374","Ramon","Santiago","DET","Shortstop",71,167,27.5,2.35211267605634
+"375","Carlos","Guillen","DET","Shortstop",73,204,31.42,2.79452054794521
+"376","Justin","Verlander","DET","Starting Pitcher",77,200,24.02,2.5974025974026
+"377","Jeremy","Bonderman","DET","Starting Pitcher",74,210,24.34,2.83783783783784
+"378","Virgil","Vasquez","DET","Starting Pitcher",75,205,24.73,2.73333333333333
+"379","Zach","Miner","DET","Starting Pitcher",75,200,24.97,2.66666666666667
+"380","Nate","Robertson","DET","Starting Pitcher",74,215,29.49,2.9054054054054
+"381","Mike","Maroth","DET","Starting Pitcher",72,190,29.54,2.63888888888889
+"382","Kenny","Rogers","DET","Starting Pitcher",73,211,42.3,2.89041095890411
+"383","Brandon","Inge","DET","Third Baseman",71,195,29.78,2.74647887323944
+"384","Miguel","Olivo","FLA","Catcher",72,215,28.63,2.98611111111111
+"385","Matt","Treanor","FLA","Catcher",74,220,30.99,2.97297297297297
+"386","Mike","Jacobs","FLA","First Baseman",74,180,26.33,2.43243243243243
+"387","Jeremy","Hermida","FLA","Outfielder",76,200,23.08,2.63157894736842
+"388","Cody","Ross","FLA","Outfielder",71,180,26.18,2.53521126760563
+"389","Eric","Reed","FLA","Outfielder",71,170,26.24,2.3943661971831
+"390","Reggi","Abercrombie","FLA","Outfielder",75,224,26.63,2.98666666666667
+"391","Josh","Willingham","FLA","Outfielder",73,200,28.03,2.73972602739726
+"392","Joe","Borchard","FLA","Outfielder",77,220,28.26,2.85714285714286
+"393","Alfredo","Amezaga","FLA","Outfielder",70,165,29.12,2.35714285714286
+"394","Jose","Garcia","FLA","Relief Pitcher",71,165,22.14,2.32394366197183
+"395","Yusmeiro","Petit","FLA","Relief Pitcher",72,230,22.27,3.19444444444444
+"396","Taylor","Tankersley","FLA","Relief Pitcher",73,220,23.98,3.01369863013699
+"397","Renyel","Pinto","FLA","Relief Pitcher",76,195,24.65,2.56578947368421
+"398","Logan","Kensing","FLA","Relief Pitcher",73,185,24.66,2.53424657534247
+"399","Carlos","Martinez","FLA","Relief Pitcher",73,170,24.76,2.32876712328767
+"400","Randy","Messenger","FLA","Relief Pitcher",72,220,25.55,3.05555555555556
+"401","Travis","Bowyer","FLA","Relief Pitcher",75,200,25.57,2.66666666666667
+"402","Sergio","Mitre","FLA","Relief Pitcher",76,210,26.03,2.76315789473684
+"403","Matt","Lindstrom","FLA","Relief Pitcher",76,205,27.05,2.69736842105263
+"404","Henry","Owens","FLA","Relief Pitcher",75,230,27.85,3.06666666666667
+"405","Kevin","Gregg","FLA","Relief Pitcher",78,220,28.7,2.82051282051282
+"406","Dan","Uggla","FLA","Second Baseman",71,200,26.97,2.8169014084507
+"407","Robert","Andino","FLA","Shortstop",72,170,22.85,2.36111111111111
+"408","Hanley","Ramirez","FLA","Shortstop",75,195,23.19,2.6
+"409","Anibal","Sanchez","FLA","Starting Pitcher",72,180,23.01,2.5
+"410","Josh","Johnson","FLA","Starting Pitcher",79,240,23.08,3.0379746835443
+"411","Scott","Olsen","FLA","Starting Pitcher",76,198,23.13,2.60526315789474
+"412","Ricky","Nolasco","FLA","Starting Pitcher",74,220,24.21,2.97297297297297
+"413","Dontrelle","Willis","FLA","Starting Pitcher",76,239,25.13,3.14473684210526
+"414","Miguel","Cabrera","FLA","Third Baseman",74,210,23.87,2.83783783783784
+"415","Aaron","Boone","FLA","Third Baseman",74,200,33.98,2.7027027027027
+"416","Hector","Gimenez","HOU","Catcher",70,180,24.42,2.57142857142857
+"417","Humberto","Quintero","HOU","Catcher",73,190,27.56,2.6027397260274
+"418","Brad","Ausmus","HOU","Catcher",71,190,37.88,2.67605633802817
+"419","Lance","Berkman","HOU","First Baseman",73,220,31.05,3.01369863013699
+"420","Mike","Lamb","HOU","First Baseman",73,190,31.56,2.6027397260274
+"421","Charlton","Jimerson","HOU","Outfielder",75,210,27.44,2.8
+"422","Luke","Scott","HOU","Outfielder",72,210,28.68,2.91666666666667
+"423","Jason","Lane","HOU","Outfielder",74,220,30.19,2.97297297297297
+"424","Carlos","Lee","HOU","Outfielder",74,240,30.69,3.24324324324324
+"425","Orlando","Palmeiro","HOU","Outfielder",71,180,38.11,2.53521126760563
+"426","Paul","Estrada","HOU","Relief Pitcher",73,215,24.47,2.94520547945205
+"427","Lincoln","Holdzkom","HOU","Relief Pitcher",76,240,24.94,3.1578947368421
+"428","Miguel","Asencio","HOU","Relief Pitcher",74,190,26.42,2.56756756756757
+"429","Ezequiel","Astacio","HOU","Relief Pitcher",75,156,27.32,2.08
+"430","Chad","Qualls","HOU","Relief Pitcher",77,220,28.54,2.85714285714286
+"431","Chris","Sampson","HOU","Relief Pitcher",72,170,28.77,2.36111111111111
+"432","Dan","Wheeler","HOU","Relief Pitcher",75,222,29.22,2.96
+"433","David","Borkowski","HOU","Relief Pitcher",73,200,30.06,2.73972602739726
+"434","Brad","Lidge","HOU","Relief Pitcher",77,210,30.18,2.72727272727273
+"435","Trever","Miller","HOU","Relief Pitcher",75,200,33.75,2.66666666666667
+"436","Chris","Burke","HOU","Second Baseman",71,180,26.97,2.53521126760563
+"437","Brooks","Conrad","HOU","Second Baseman",71,190,27.12,2.67605633802817
+"438","Eric","Bruntlett","HOU","Second Baseman",72,190,28.92,2.63888888888889
+"439","Mark","Loretta","HOU","Second Baseman",72,186,35.55,2.58333333333333
+"440","Craig","Biggio","HOU","Second Baseman",71,185,41.21,2.6056338028169
+"441","Adam","Everett","HOU","Shortstop",72,170,30.06,2.36111111111111
+"442","Matt","Albers","HOU","Starting Pitcher",72,205,24.11,2.84722222222222
+"443","Fernando","Nieve","HOU","Starting Pitcher",72,195,24.63,2.70833333333333
+"444","Wandy","Rodriguez","HOU","Starting Pitcher",71,160,28.11,2.25352112676056
+"445","Jason","Jennings","HOU","Starting Pitcher",74,245,28.62,3.31081081081081
+"446","Brandon","Backe","HOU","Starting Pitcher",72,180,28.9,2.5
+"447","Roy","Oswalt","HOU","Starting Pitcher",72,185,29.5,2.56944444444444
+"448","Woody","Williams","HOU","Starting Pitcher",72,200,40.53,2.77777777777778
+"449","Morgan","Ensberg","HOU","Third Baseman",74,210,31.51,2.83783783783784
+"450","John","Buck","KC","Catcher",75,210,26.65,2.8
+"451","Jason","LaRue","KC","Catcher",71,200,32.95,2.8169014084507
+"452","Mike","Sweeney","KC","Designated Hitter",75,225,33.61,3
+"453","Ryan","Shealy","KC","First Baseman",77,240,27.5,3.11688311688312
+"454","Ross","Gload","KC","First Baseman",72,185,30.9,2.56944444444444
+"455","Mitch","Maier","KC","Outfielder",74,210,24.67,2.83783783783784
+"456","Shane","Costa","KC","Outfielder",72,220,25.22,3.05555555555556
+"457","Joey","Gathright","KC","Outfielder",70,170,25.84,2.42857142857143
+"458","David","DeJesus","KC","Outfielder",72,175,27.2,2.43055555555556
+"459","Emil","Brown","KC","Outfielder",74,200,32.17,2.7027027027027
+"460","Reggie","Sanders","KC","Outfielder",73,205,39.25,2.80821917808219
+"461","Joakim","Soria","KC","Relief Pitcher",75,185,22.78,2.46666666666667
+"462","Jimmy","Gobble","KC","Relief Pitcher",75,190,25.62,2.53333333333333
+"463","Ryan","Braun","KC","Relief Pitcher",73,215,26.59,2.94520547945205
+"464","Todd","Wellemeyer","KC","Relief Pitcher",75,205,28.5,2.73333333333333
+"465","David","Riske","KC","Relief Pitcher",74,190,30.35,2.56756756756757
+"466","Joel","Peralta","KC","Relief Pitcher",71,160,30.94,2.25352112676056
+"467","Ken","Ray","KC","Relief Pitcher",74,200,32.26,2.7027027027027
+"468","Joe","Nelson","KC","Relief Pitcher",74,185,32.35,2.5
+"469","Octavio","Dotel","KC","Relief Pitcher",72,210,33.26,2.91666666666667
+"470","Angel","Sanchez","KC","Second Baseman",74,185,23.44,2.5
+"471","Esteban","German","KC","Second Baseman",69,165,29.09,2.39130434782609
+"472","Mark","Grudzielanek","KC","Second Baseman",73,190,36.67,2.6027397260274
+"473","Andres","Blanco","KC","Shortstop",70,155,22.89,2.21428571428571
+"474","Angel","Berroa","KC","Shortstop",72,175,29.09,2.43055555555556
+"475","Zack","Greinke","KC","Starting Pitcher",74,200,23.36,2.7027027027027
+"476","Jorge","De La Rosa","KC","Starting Pitcher",73,190,25.9,2.6027397260274
+"477","Brian","Bannister","KC","Starting Pitcher",74,202,26,2.72972972972973
+"478","Neal","Musser","KC","Starting Pitcher",73,215,26.51,2.94520547945205
+"479","Gil","Meche","KC","Starting Pitcher",75,200,28.48,2.66666666666667
+"480","Odalis","Perez","KC","Starting Pitcher",72,150,29.73,2.08333333333333
+"481","Luke","Hudson","KC","Starting Pitcher",75,195,29.83,2.6
+"482","Scott","Elarton","KC","Starting Pitcher",80,240,31.02,3
+"483","John","Bale","KC","Starting Pitcher",76,205,32.77,2.69736842105263
+"484","Mark","Teahen","KC","Third Baseman",75,210,25.48,2.8
+"485","Russell","Martin","LA","Catcher",71,202,24.04,2.84507042253521
+"486","Mike","Lieberthal","LA","Catcher",72,190,35.12,2.63888888888889
+"487","James","Loney","LA","First Baseman",75,200,22.81,2.66666666666667
+"488","Nomar","Garciaparra","LA","First Baseman",72,190,33.6,2.63888888888889
+"489","Olmedo","Saenz","LA","First Baseman",71,221,36.39,3.11267605633803
+"490","Matt","Kemp","LA","Outfielder",76,230,22.43,3.02631578947368
+"491","Delwyn","Young","LA","Outfielder",68,209,24.67,3.07352941176471
+"492","Andre","Ethier","LA","Outfielder",73,208,24.89,2.84931506849315
+"493","Jason","Repko","LA","Outfielder",71,175,26.17,2.46478873239437
+"494","Juan","Pierre","LA","Outfielder",72,180,29.54,2.5
+"495","Luis","Gonzalez","LA","Outfielder",74,200,39.49,2.7027027027027
+"496","Jonathan","Broxton","LA","Relief Pitcher",76,240,22.7,3.1578947368421
+"497","Hong-Chih","Kuo","LA","Relief Pitcher",72,200,25.6,2.77777777777778
+"498","Chin-Hui","Tsao","LA","Relief Pitcher",74,177,25.74,2.39189189189189
+"499","Yhency","Brazoban","LA","Relief Pitcher",73,170,26.72,2.32876712328767
+"500","Eric","Stults","LA","Relief Pitcher",72,215,27.23,2.98611111111111
+"501","Joe","Beimel","LA","Relief Pitcher",75,217,29.86,2.89333333333333
+"502","Tim","Hamulack","LA","Relief Pitcher",76,210,30.29,2.76315789473684
+"503","Brett","Tomko","LA","Relief Pitcher",76,215,33.9,2.82894736842105
+"504","Elmer","Dessens","LA","Relief Pitcher",70,198,36.13,2.82857142857143
+"505","Takashi","Saito","LA","Relief Pitcher",73,202,37.04,2.76712328767123
+"506","Marlon","Anderson","LA","Second Baseman",71,200,33.15,2.8169014084507
+"507","Ramon","Martinez","LA","Second Baseman",73,190,34.39,2.6027397260274
+"508","Jeff","Kent","LA","Second Baseman",73,210,38.98,2.87671232876712
+"509","Rafael","Furcal","LA","Shortstop",70,165,29.35,2.35714285714286
+"510","Chad","Billingsley","LA","Starting Pitcher",72,244,22.59,3.38888888888889
+"511","Brad","Penny","LA","Starting Pitcher",76,250,28.77,3.28947368421053
+"512","Randy","Wolf","LA","Starting Pitcher",72,200,30.52,2.77777777777778
+"513","Mark","Hendrickson","LA","Starting Pitcher",81,230,32.69,2.83950617283951
+"514","Derek","Lowe","LA","Starting Pitcher",78,210,33.75,2.69230769230769
+"515","Jason","Schmidt","LA","Starting Pitcher",77,205,34.08,2.66233766233766
+"516","Andy","LaRoche","LA","Third Baseman",71,185,23.46,2.6056338028169
+"517","Wilson","Betemit","LA","Third Baseman",75,190,26.59,2.53333333333333
+"518","Joe","Mauer","MIN","Catcher",76,220,23.87,2.89473684210526
+"519","Chris","Heintz","MIN","Catcher",73,210,32.57,2.87671232876712
+"520","Mike","Redmond","MIN","Catcher",71,200,35.82,2.8169014084507
+"521","Josh","Rabe","MIN","Designated Hitter",74,210,28.38,2.83783783783784
+"522","Rondell","White","MIN","Designated Hitter",73,225,35.02,3.08219178082192
+"523","Justin","Morneau","MIN","First Baseman",76,228,25.79,3
+"524","Jason","Kubel","MIN","Outfielder",71,200,24.77,2.8169014084507
+"525","Michael","Cuddyer","MIN","Outfielder",74,222,27.93,3
+"526","Jason","Tyner","MIN","Outfielder",73,160,29.85,2.19178082191781
+"527","Lew","Ford","MIN","Outfielder",72,195,30.55,2.70833333333333
+"528","Torii","Hunter","MIN","Outfielder",74,211,31.62,2.85135135135135
+"529","Glen","Perkins","MIN","Relief Pitcher",71,200,24,2.8169014084507
+"530","Julio","DePaula","MIN","Relief Pitcher",72,170,24.16,2.36111111111111
+"531","Jesse","Crain","MIN","Relief Pitcher",73,205,25.65,2.80821917808219
+"532","Pat","Neshek","MIN","Relief Pitcher",75,205,26.49,2.73333333333333
+"533","Juan","Rincon","MIN","Relief Pitcher",71,201,28.1,2.83098591549296
+"534","Matt","Guerrier","MIN","Relief Pitcher",75,185,28.58,2.46666666666667
+"535","Dennys","Reyes","MIN","Relief Pitcher",75,245,29.86,3.26666666666667
+"536","Joe","Nathan","MIN","Relief Pitcher",76,205,32.27,2.69736842105263
+"537","Alexi","Casilla","MIN","Second Baseman",69,160,22.61,2.31884057971015
+"538","Alejandro","Machado","MIN","Second Baseman",72,184,24.85,2.55555555555556
+"539","Luis","Castillo","MIN","Second Baseman",71,190,31.47,2.67605633802817
+"540","Jason","Bartlett","MIN","Shortstop",72,180,27.33,2.5
+"541","Matt","Garza","MIN","Starting Pitcher",76,185,23.26,2.43421052631579
+"542","Francisco","Liriano","MIN","Starting Pitcher",74,185,23.35,2.5
+"543","Boof","Bonser","MIN","Starting Pitcher",76,260,25.38,3.42105263157895
+"544","Scott","Baker","MIN","Starting Pitcher",76,221,25.45,2.9078947368421
+"545","Carlos","Silva","MIN","Starting Pitcher",76,240,27.85,3.1578947368421
+"546","Johan","Santana","MIN","Starting Pitcher",72,206,27.97,2.86111111111111
+"547","Ramon","Ortiz","MIN","Starting Pitcher",72,175,33.77,2.43055555555556
+"548","Luis","Rodriguez","MIN","Third Baseman",69,180,26.67,2.60869565217391
+"549","Nick","Punto","MIN","Third Baseman",69,176,29.31,2.55072463768116
+"550","Jeff","Cirillo","MIN","Third Baseman",73,200,37.43,2.73972602739726
+"551","J.D.","Closser","MLW","Catcher",70,176,27.12,2.51428571428571
+"552","Mike","Rivera","MLW","Catcher",72,210,30.48,2.91666666666667
+"553","Johnny","Estrada","MLW","Catcher",71,209,30.67,2.94366197183099
+"554","Damian","Miller","MLW","Catcher",75,220,37.38,2.93333333333333
+"555","Prince","Fielder","MLW","First Baseman",72,260,22.81,3.61111111111111
+"556","Tony","Gwynn","MLW","Outfielder",72,185,24.41,2.56944444444444
+"557","Corey","Hart","MLW","Outfielder",78,200,24.94,2.56410256410256
+"558","Drew","Anderson","MLW","Outfielder",74,195,25.72,2.63513513513514
+"559","Laynce","Nix","MLW","Outfielder",72,200,26.33,2.77777777777778
+"560","Gabe","Gross","MLW","Outfielder",75,209,27.36,2.78666666666667
+"561","Kevin","Mench","MLW","Outfielder",72,225,29.14,3.125
+"562","Geoff","Jenkins","MLW","Outfielder",73,212,32.61,2.9041095890411
+"563","Brady","Clark","MLW","Outfielder",74,202,33.87,2.72972972972973
+"564","Dennis","Sarfate","MLW","Relief Pitcher",76,210,25.89,2.76315789473684
+"565","Jose","Capellan","MLW","Relief Pitcher",76,235,26.13,3.0921052631579
+"566","Derrick","Turnbow","MLW","Relief Pitcher",75,210,29.1,2.8
+"567","Greg","Aquino","MLW","Relief Pitcher",73,188,29.13,2.57534246575342
+"568","Grant","Balfour","MLW","Relief Pitcher",74,188,29.17,2.54054054054054
+"569","Matt","Wise","MLW","Relief Pitcher",76,200,31.28,2.63157894736842
+"570","Francisco","Cordero","MLW","Relief Pitcher",74,235,31.81,3.17567567567568
+"571","Brian","Shouse","MLW","Relief Pitcher",71,190,38.43,2.67605633802817
+"572","Rickie","Weeks","MLW","Second Baseman",72,195,24.46,2.70833333333333
+"573","Tony","Graffanino","MLW","Second Baseman",73,190,34.73,2.6027397260274
+"574","J.J.","Hardy","MLW","Shortstop",74,180,24.53,2.43243243243243
+"575","Bill","Hall","MLW","Shortstop",72,195,27.17,2.70833333333333
+"576","Craig","Counsell","MLW","Shortstop",72,184,36.53,2.55555555555556
+"577","Carlos","Villanueva","MLW","Starting Pitcher",74,190,23.26,2.56756756756757
+"578","Ben","Hendrickson","MLW","Starting Pitcher",76,190,26.07,2.5
+"579","Dave","Bush","MLW","Starting Pitcher",74,212,27.31,2.86486486486486
+"580","Chris","Capuano","MLW","Starting Pitcher",75,210,28.53,2.8
+"581","Ben","Sheets","MLW","Starting Pitcher",73,218,28.62,2.98630136986301
+"582","Claudio","Vargas","MLW","Starting Pitcher",75,228,28.7,3.04
+"583","Jeff","Suppan","MLW","Starting Pitcher",74,220,32.16,2.97297297297297
+"584","Vinny","Rottino","MLW","Third Baseman",72,195,26.9,2.70833333333333
+"585","Corey","Koskie","MLW","Third Baseman",75,219,33.67,2.92
+"586","Ramon","Castro","NYM","Catcher",75,235,31,3.13333333333333
+"587","Paul","Lo Duca","NYM","Catcher",70,185,34.88,2.64285714285714
+"588","Carlos","Delgado","NYM","First Baseman",75,230,34.68,3.06666666666667
+"589","Julio","Franco","NYM","First Baseman",73,188,48.52,2.57534246575342
+"590","Lastings","Milledge","NYM","Outfielder",72,187,21.9,2.59722222222222
+"591","Ben","Johnson","NYM","Outfielder",73,200,25.7,2.73972602739726
+"592","Endy","Chavez","NYM","Outfielder",70,189,29.06,2.7
+"593","Carlos","Beltran","NYM","Outfielder",73,190,29.85,2.6027397260274
+"594","David","Newhan","NYM","Outfielder",70,180,33.48,2.57142857142857
+"595","Shawn","Green","NYM","Outfielder",76,200,34.3,2.63157894736842
+"596","Moises","Alou","NYM","Outfielder",75,220,40.66,2.93333333333333
+"597","Marcos","Carvajal","NYM","Relief Pitcher",76,175,22.53,2.30263157894737
+"598","Ambiorix","Burgos","NYM","Relief Pitcher",72,180,22.86,2.5
+"599","Jason","Vargas","NYM","Relief Pitcher",72,215,24.07,2.98611111111111
+"600","Philip","Humber","NYM","Relief Pitcher",76,210,24.19,2.76315789473684
+"601","Duaner","Sanchez","NYM","Relief Pitcher",72,190,27.38,2.63888888888889
+"602","Aaron","Heilman","NYM","Relief Pitcher",77,220,28.3,2.85714285714286
+"603","Jon","Adkins","NYM","Relief Pitcher",71,210,29.5,2.95774647887324
+"604","Jorge","Sosa","NYM","Relief Pitcher",74,170,29.84,2.2972972972973
+"605","Juan","Padilla","NYM","Relief Pitcher",72,200,30.03,2.77777777777778
+"606","Pedro","Feliciano","NYM","Relief Pitcher",70,185,30.51,2.64285714285714
+"607","Scott","Schoeneweis","NYM","Relief Pitcher",72,195,33.41,2.70833333333333
+"608","Guillermo","Mota","NYM","Relief Pitcher",76,205,33.6,2.69736842105263
+"609","Billy","Wagner","NYM","Relief Pitcher",71,195,35.6,2.74647887323944
+"610","Anderson","Hernandez","NYM","Second Baseman",69,168,24.33,2.43478260869565
+"611","Jose","Valentin","NYM","Second Baseman",70,195,37.38,2.78571428571429
+"612","Jose","Reyes","NYM","Shortstop",72,160,23.72,2.22222222222222
+"613","Damion","Easley","NYM","Shortstop",71,190,37.3,2.67605633802817
+"614","Mike","Pelfrey","NYM","Starting Pitcher",79,190,23.13,2.40506329113924
+"615","Oliver","Perez","NYM","Starting Pitcher",72,190,25.54,2.63888888888889
+"616","John","Maine","NYM","Starting Pitcher",76,193,25.81,2.53947368421053
+"617","Alay","Soler","NYM","Starting Pitcher",73,240,27.39,3.28767123287671
+"618","Dave","Williams","NYM","Starting Pitcher",74,219,27.97,2.95945945945946
+"619","Chan","Ho Park","NYM","Starting Pitcher",74,210,33.67,2.83783783783784
+"620","Pedro","Martinez","NYM","Starting Pitcher",71,180,35.35,2.53521126760563
+"621","Orlando","Hernandez","NYM","Starting Pitcher",74,220,37.39,2.97297297297297
+"622","Tom","Glavine","NYM","Starting Pitcher",72,185,40.93,2.56944444444444
+"623","David","Wright","NYM","Third Baseman",72,200,24.19,2.77777777777778
+"624","Wil","Nieves","NYY","Catcher",71,190,29.43,2.67605633802817
+"625","Jorge","Posada","NYY","Catcher",74,205,35.54,2.77027027027027
+"626","Jason","Giambi","NYY","Designated Hitter",75,230,36.14,3.06666666666667
+"627","Josh","Phelps","NYY","First Baseman",75,220,28.8,2.93333333333333
+"628","Andy","Phillips","NYY","First Baseman",72,205,29.9,2.84722222222222
+"629","Doug","Mientkiewicz","NYY","First Baseman",74,206,32.7,2.78378378378378
+"630","Melky","Cabrera","NYY","Outfielder",71,170,22.55,2.3943661971831
+"631","Kevin","Thompson","NYY","Outfielder",70,185,27.45,2.64285714285714
+"632","Hideki","Matsui","NYY","Outfielder",74,230,32.72,3.10810810810811
+"633","Bobby","Abreu","NYY","Outfielder",72,211,32.97,2.93055555555556
+"634","Johnny","Damon","NYY","Outfielder",74,190,33.32,2.56756756756757
+"635","Chris","Britton","NYY","Relief Pitcher",75,278,24.21,3.70666666666667
+"636","Brian","Bruney","NYY","Relief Pitcher",75,226,25.03,3.01333333333333
+"637","Sean","Henn","NYY","Relief Pitcher",76,215,25.85,2.82894736842105
+"638","Jose","Veras","NYY","Relief Pitcher",77,230,26.36,2.98701298701299
+"639","T.J.","Beam","NYY","Relief Pitcher",79,215,26.51,2.72151898734177
+"640","Scott","Proctor","NYY","Relief Pitcher",73,198,30.16,2.71232876712329
+"641","Kyle","Farnsworth","NYY","Relief Pitcher",76,240,30.88,3.1578947368421
+"642","Luis","Vizcaino","NYY","Relief Pitcher",71,184,32.57,2.59154929577465
+"643","Mariano","Rivera","NYY","Relief Pitcher",74,170,37.25,2.2972972972973
+"644","Mike","Myers","NYY","Relief Pitcher",75,219,37.68,2.92
+"645","Robinson","Cano","NYY","Second Baseman",72,170,24.36,2.36111111111111
+"646","Miguel","Cairo","NYY","Second Baseman",73,208,32.82,2.84931506849315
+"647","Derek","Jeter","NYY","Shortstop",75,195,32.68,2.6
+"648","Humberto","Sanchez","NYY","Starting Pitcher",78,230,23.76,2.94871794871795
+"649","Jeff","Karstens","NYY","Starting Pitcher",75,175,24.43,2.33333333333333
+"650","Darrell","Rasner","NYY","Starting Pitcher",75,210,26.13,2.8
+"651","Chien-Ming","Wang","NYY","Starting Pitcher",75,200,26.92,2.66666666666667
+"652","Carl","Pavano","NYY","Starting Pitcher",77,241,31.14,3.12987012987013
+"653","Andy","Pettitte","NYY","Starting Pitcher",77,225,34.71,2.92207792207792
+"654","Mike","Mussina","NYY","Starting Pitcher",74,185,38.23,2.5
+"655","Alex","Rodriguez","NYY","Third Baseman",75,210,31.59,2.8
+"656","Jason","Kendall","OAK","Catcher",72,195,32.68,2.70833333333333
+"657","Adam","Melhuse","OAK","Catcher",74,200,34.93,2.7027027027027
+"658","Mike","Piazza","OAK","Catcher",75,215,38.49,2.86666666666667
+"659","Jeremy","Brown","OAK","Designated Hitter",70,226,27.35,3.22857142857143
+"660","Nick","Swisher","OAK","First Baseman",72,194,26.26,2.69444444444444
+"661","Dan","Johnson","OAK","First Baseman",74,220,27.56,2.97297297297297
+"662","Ryan","Goleski","OAK","Outfielder",75,225,24.95,3
+"663","Milton","Bradley","OAK","Outfielder",72,205,28.88,2.84722222222222
+"664","Bobby","Kielty","OAK","Outfielder",73,225,30.57,3.08219178082192
+"665","Mark","Kotsay","OAK","Outfielder",72,201,31.24,2.79166666666667
+"666","Shannon","Stewart","OAK","Outfielder",71,200,33.01,2.8169014084507
+"667","Huston","Street","OAK","Relief Pitcher",72,190,23.58,2.63888888888889
+"668","Chad","Gaudin","OAK","Relief Pitcher",71,165,23.94,2.32394366197183
+"669","Jay","Marshall","OAK","Relief Pitcher",77,185,24.01,2.4025974025974
+"670","Marcus","McBeth","OAK","Relief Pitcher",73,185,26.52,2.53424657534247
+"671","Lenny","DiNardo","OAK","Relief Pitcher",76,195,27.45,2.56578947368421
+"672","Ron","Flores","OAK","Relief Pitcher",71,190,27.56,2.67605633802817
+"673","Scott","Dunn","OAK","Relief Pitcher",75,200,28.77,2.66666666666667
+"674","Justin","Duchscherer","OAK","Relief Pitcher",75,190,29.28,2.53333333333333
+"675","Kiko","Calero","OAK","Relief Pitcher",73,180,32.14,2.46575342465753
+"676","Jay","Witasick","OAK","Relief Pitcher",76,235,34.51,3.0921052631579
+"677","Alan","Embree","OAK","Relief Pitcher",74,190,37.1,2.56756756756757
+"678","Donald","Murphy","OAK","Second Baseman",70,180,23.98,2.57142857142857
+"679","Mark","Ellis","OAK","Second Baseman",71,180,29.73,2.53521126760563
+"680","Mark","Kiger","OAK","Shortstop",71,180,26.75,2.53521126760563
+"681","Bobby","Crosby","OAK","Shortstop",75,195,27.13,2.6
+"682","Marco","Scutaro","OAK","Shortstop",70,170,31.33,2.42857142857143
+"683","Jason","Windsor","OAK","Starting Pitcher",74,233,24.62,3.14864864864865
+"684","David","Shafer","OAK","Starting Pitcher",74,180,24.98,2.43243243243243
+"685","Rich","Harden","OAK","Starting Pitcher",73,180,25.25,2.46575342465753
+"686","Brad","Halsey","OAK","Starting Pitcher",73,180,26.04,2.46575342465753
+"687","Joe","Blanton","OAK","Starting Pitcher",75,225,26.22,3
+"688","Dan","Haren","OAK","Starting Pitcher",77,220,26.45,2.85714285714286
+"689","Joe","Kennedy","OAK","Starting Pitcher",76,237,27.77,3.11842105263158
+"690","Esteban","Loaiza","OAK","Starting Pitcher",75,215,35.16,2.86666666666667
+"691","Antonio","Perez","OAK","Third Baseman",71,170,27.09,2.3943661971831
+"692","Eric","Chavez","OAK","Third Baseman",73,206,29.23,2.82191780821918
+"693","Ryan","Budde","PHI","Catcher",71,200,27.54,2.8169014084507
+"694","Carlos","Ruiz","PHI","Catcher",72,170,28.1,2.36111111111111
+"695","Rod","Barajas","PHI","Catcher",74,220,31.49,2.97297297297297
+"696","Chris","Coste","PHI","Catcher",73,200,34.07,2.73972602739726
+"697","Greg","Dobbs","PHI","Designated Hitter",73,205,28.66,2.80821917808219
+"698","Ryan","Howard","PHI","First Baseman",76,230,27.28,3.02631578947368
+"699","Wes","Helms","PHI","First Baseman",76,231,30.8,3.03947368421053
+"700","Michael","Bourn","PHI","Outfielder",71,180,24.18,2.53521126760563
+"701","Shane","Victorino","PHI","Outfielder",69,160,26.25,2.31884057971015
+"702","Chris","Roberson","PHI","Outfielder",74,180,27.52,2.43243243243243
+"703","Jayson","Werth","PHI","Outfielder",77,215,27.78,2.79220779220779
+"704","Aaron","Rowand","PHI","Outfielder",72,205,29.5,2.84722222222222
+"705","Pat","Burrell","PHI","Outfielder",76,223,30.39,2.93421052631579
+"706","Fabio","Castro","PHI","Relief Pitcher",68,150,22.11,2.20588235294118
+"707","Anderson","Garcia","PHI","Relief Pitcher",74,170,25.94,2.2972972972973
+"708","Ryan","Madson","PHI","Relief Pitcher",78,190,26.51,2.43589743589744
+"709","Matt","Smith","PHI","Relief Pitcher",77,225,27.71,2.92207792207792
+"710","Jim","Ed Warden","PHI","Relief Pitcher",79,190,27.82,2.40506329113924
+"711","Eude","Brito","PHI","Relief Pitcher",71,160,28.53,2.25352112676056
+"712","Brian","Sanches","PHI","Relief Pitcher",72,190,28.56,2.63888888888889
+"713","Geoff","Geary","PHI","Relief Pitcher",72,167,30.51,2.31944444444444
+"714","Clay","Condrey","PHI","Relief Pitcher",75,195,31.28,2.6
+"715","Antonio","Alfonseca","PHI","Relief Pitcher",77,250,34.87,3.24675324675325
+"716","Tom","Gordon","PHI","Relief Pitcher",70,190,39.28,2.71428571428571
+"717","Danny","Sandoval","PHI","Second Baseman",71,192,27.9,2.70422535211268
+"718","Chase","Utley","PHI","Second Baseman",73,183,28.2,2.50684931506849
+"719","Jimmy","Rollins","PHI","Shortstop",68,167,28.26,2.45588235294118
+"720","Scott","Mathieson","PHI","Starting Pitcher",75,190,23.01,2.53333333333333
+"721","Cole","Hamels","PHI","Starting Pitcher",75,175,23.18,2.33333333333333
+"722","Alfredo","Simon","PHI","Starting Pitcher",76,170,25.81,2.23684210526316
+"723","Brett","Myers","PHI","Starting Pitcher",76,223,26.54,2.93421052631579
+"724","Adam","Eaton","PHI","Starting Pitcher",74,196,29.27,2.64864864864865
+"725","Freddy","Garcia","PHI","Starting Pitcher",76,240,31.72,3.1578947368421
+"726","Jon","Lieber","PHI","Starting Pitcher",74,230,36.91,3.10810810810811
+"727","Jamie","Moyer","PHI","Starting Pitcher",72,175,44.28,2.43055555555556
+"728","Abraham","Nunez","PHI","Third Baseman",71,190,30.96,2.67605633802817
+"729","Ronny","Paulino","PIT","Catcher",75,215,25.86,2.86666666666667
+"730","Humberto","Cota","PIT","Catcher",72,210,28.06,2.91666666666667
+"731","Ryan","Doumit","PIT","First Baseman",72,200,25.91,2.77777777777778
+"732","Brad","Eldred","PIT","First Baseman",77,245,26.63,3.18181818181818
+"733","Adam","LaRoche","PIT","First Baseman",75,180,27.32,2.4
+"734","Nate","McLouth","PIT","Outfielder",71,186,25.34,2.61971830985915
+"735","Rajai","Davis","PIT","Outfielder",71,197,26.36,2.77464788732394
+"736","Jose","Bautista","PIT","Outfielder",72,192,26.36,2.66666666666667
+"737","Chris","Duffy","PIT","Outfielder",70,170,26.86,2.42857142857143
+"738","Xavier","Nady","PIT","Outfielder",74,205,28.29,2.77027027027027
+"739","Jason","Bay","PIT","Outfielder",74,200,28.44,2.7027027027027
+"740","Jody","Gerut","PIT","Outfielder",72,190,29.45,2.63888888888889
+"741","Matt","Capps","PIT","Relief Pitcher",75,238,23.49,3.17333333333333
+"742","Brian","Rogers","PIT","Relief Pitcher",76,190,24.62,2.5
+"743","Josh","Sharpless","PIT","Relief Pitcher",77,234,26.09,3.03896103896104
+"744","Bryan","Bullington","PIT","Relief Pitcher",76,222,26.41,2.92105263157895
+"745","Jonah","Bayliss","PIT","Relief Pitcher",74,200,26.55,2.7027027027027
+"746","John","Grabow","PIT","Relief Pitcher",74,210,28.32,2.83783783783784
+"747","Juan","Perez","PIT","Relief Pitcher",72,170,28.49,2.36111111111111
+"748","Damaso","Marte","PIT","Relief Pitcher",74,200,32.04,2.7027027027027
+"749","Marty","McLeary","PIT","Relief Pitcher",77,230,32.34,2.98701298701299
+"750","Salomon","Torres","PIT","Relief Pitcher",71,210,34.97,2.95774647887324
+"751","Jose","Castillo","PIT","Second Baseman",73,200,25.95,2.73972602739726
+"752","Jack","Wilson","PIT","Shortstop",72,192,29.17,2.66666666666667
+"753","Zach","Duke","PIT","Starting Pitcher",74,207,23.87,2.7972972972973
+"754","Sean","Burnett","PIT","Starting Pitcher",71,190,24.45,2.67605633802817
+"755","Tom","Gorzelanny","PIT","Starting Pitcher",74,207,24.64,2.7972972972973
+"756","Paul","Maholm","PIT","Starting Pitcher",74,225,24.68,3.04054054054054
+"757","Josh","Shortslef","PIT","Starting Pitcher",76,220,25.08,2.89473684210526
+"758","Ian","Snell","PIT","Starting Pitcher",71,170,25.33,2.3943661971831
+"759","Yoslan","Herrera","PIT","Starting Pitcher",74,200,25.84,2.7027027027027
+"760","Shane","Youman","PIT","Starting Pitcher",76,219,27.39,2.88157894736842
+"761","Tony","Armas","PIT","Starting Pitcher",75,225,28.84,3
+"762","Shawn","Chacon","PIT","Starting Pitcher",75,212,29.19,2.82666666666667
+"763","Freddy","Sanchez","PIT","Third Baseman",70,192,29.19,2.74285714285714
+"764","Rob","Bowen","SD","Catcher",75,216,26.01,2.88
+"765","Josh","Bard","SD","Catcher",75,215,28.92,2.86666666666667
+"766","Kevin","Kouzmanoff","SD","Designated Hitter",73,200,25.6,2.73972602739726
+"767","Adrian","Gonzalez","SD","First Baseman",74,220,24.81,2.97297297297297
+"768","Paul","McAnulty","SD","Outfielder",70,220,26.01,3.14285714285714
+"769","Jack","Cust","SD","Outfielder",73,231,28.12,3.16438356164384
+"770","Terrmel","Sledge","SD","Outfielder",72,185,29.95,2.56944444444444
+"771","Russell","Branyan","SD","Outfielder",75,195,31.2,2.6
+"772","Jose","Cruz","SD","Outfielder",72,210,32.87,2.91666666666667
+"773","Mike","Cameron","SD","Outfielder",74,200,34.14,2.7027027027027
+"774","Brian","Giles","SD","Outfielder",70,205,36.11,2.92857142857143
+"775","Cla","Meredith","SD","Relief Pitcher",73,185,23.74,2.53424657534247
+"776","Ryan","Ketchner","SD","Relief Pitcher",73,190,24.87,2.6027397260274
+"777","Andrew","Brown","SD","Relief Pitcher",78,230,26.03,2.94871794871795
+"778","Royce","Ring","SD","Relief Pitcher",72,220,26.19,3.05555555555556
+"779","Justin","Hampson","SD","Relief Pitcher",73,200,26.77,2.73972602739726
+"780","Kevin","Cameron","SD","Relief Pitcher",73,180,27.21,2.46575342465753
+"781","Mike","Adams","SD","Relief Pitcher",77,190,28.59,2.46753246753247
+"782","Heath","Bell","SD","Relief Pitcher",74,244,29.42,3.2972972972973
+"783","Scott","Linebrink","SD","Relief Pitcher",75,208,30.57,2.77333333333333
+"784","Scott","Strickland","SD","Relief Pitcher",71,180,30.84,2.53521126760563
+"785","Scott","Cassidy","SD","Relief Pitcher",74,170,31.41,2.2972972972973
+"786","Trevor","Hoffman","SD","Relief Pitcher",72,215,39.38,2.98611111111111
+"787","Doug","Brocail","SD","Relief Pitcher",77,235,39.79,3.05194805194805
+"788","Marcus","Giles","SD","Second Baseman",68,180,28.79,2.64705882352941
+"789","Todd","Walker","SD","Second Baseman",72,185,33.77,2.56944444444444
+"790","Khalil","Greene","SD","Shortstop",71,210,27.36,2.95774647887324
+"791","Geoff","Blum","SD","Shortstop",75,200,33.85,2.66666666666667
+"792","Jake","Peavy","SD","Starting Pitcher",73,180,25.75,2.46575342465753
+"793","Mike","Thompson","SD","Starting Pitcher",76,200,26.31,2.63157894736842
+"794","Clay","Hensley","SD","Starting Pitcher",71,190,27.5,2.67605633802817
+"795","Chris","Young","SD","Starting Pitcher",82,250,27.77,3.04878048780488
+"796","Greg","Maddux","SD","Starting Pitcher",72,185,40.88,2.56944444444444
+"797","Rene","Rivera","SEA","Catcher",70,190,23.58,2.71428571428571
+"798","Kenji","Johjima","SEA","Catcher",72,200,30.73,2.77777777777778
+"799","Ben","Broussard","SEA","First Baseman",74,220,30.43,2.97297297297297
+"800","Richie","Sexson","SEA","First Baseman",80,237,32.17,2.9625
+"801","Adam","Jones","SEA","Outfielder",74,200,21.58,2.7027027027027
+"802","Mike","Morse","SEA","Outfielder",76,220,24.94,2.89473684210526
+"803","Jeremy","Reed","SEA","Outfielder",72,185,25.71,2.56944444444444
+"804","Willie","Bloomquist","SEA","Outfielder",71,185,29.26,2.6056338028169
+"805","Jose","Guillen","SEA","Outfielder",71,190,30.79,2.67605633802817
+"806","Ichiro","Suzuki","SEA","Outfielder",69,172,33.36,2.49275362318841
+"807","Raul","Ibanez","SEA","Outfielder",74,200,34.74,2.7027027027027
+"808","Eric","O'Flaherty","SEA","Relief Pitcher",74,195,22.06,2.63513513513514
+"809","Cesar","Jimenez","SEA","Relief Pitcher",71,180,22.3,2.53521126760563
+"810","Mark","Lowe","SEA","Relief Pitcher",75,190,23.73,2.53333333333333
+"811","Jake","Woods","SEA","Relief Pitcher",73,190,25.49,2.6027397260274
+"812","Jon","Huber","SEA","Relief Pitcher",74,195,25.65,2.63513513513514
+"813","Sean","Green","SEA","Relief Pitcher",78,230,27.86,2.94871794871795
+"814","Chris","Reitsma","SEA","Relief Pitcher",77,235,29.16,3.05194805194805
+"815","Julio","Mateo","SEA","Relief Pitcher",72,177,29.58,2.45833333333333
+"816","George","Sherrill","SEA","Relief Pitcher",72,210,29.86,2.91666666666667
+"817","J.J.","Putz","SEA","Relief Pitcher",77,220,30.02,2.85714285714286
+"818","Jose","Lopez","SEA","Second Baseman",74,170,23.27,2.2972972972973
+"819","Jose","Vidro","SEA","Second Baseman",71,193,32.51,2.71830985915493
+"820","Oswaldo","Navarro","SEA","Shortstop",72,150,22.41,2.08333333333333
+"821","Yuniesky","Betancourt","SEA","Shortstop",70,190,25.08,2.71428571428571
+"822","Felix","Hernandez","SEA","Starting Pitcher",75,225,20.9,3
+"823","Ryan","Feierabend","SEA","Starting Pitcher",75,190,21.52,2.53333333333333
+"824","Sean","White","SEA","Starting Pitcher",76,195,25.85,2.56578947368421
+"825","Cha","Baek","SEA","Starting Pitcher",76,190,26.75,2.5
+"826","Horacio","Ramirez","SEA","Starting Pitcher",73,219,27.27,3
+"827","Jeff","Weaver","SEA","Starting Pitcher",77,200,30.52,2.5974025974026
+"828","Jarrod","Washburn","SEA","Starting Pitcher",73,195,32.55,2.67123287671233
+"829","Miguel","Batista","SEA","Starting Pitcher",73,197,36.03,2.6986301369863
+"830","Adrian","Beltre","SEA","Third Baseman",71,220,27.9,3.09859154929577
+"831","Eliezer","Alfonzo","SF","Catcher",72,223,28.06,3.09722222222222
+"832","Bengie","Molina","SF","Catcher",71,220,32.61,3.09859154929577
+"833","Lance","Niekro","SF","First Baseman",75,210,28.08,2.8
+"834","Mark","Sweeney","SF","First Baseman",73,215,37.34,2.94520547945205
+"835","Fred","Lewis","SF","Outfielder",74,190,26.22,2.56756756756757
+"836","Todd","Linden","SF","Outfielder",75,210,26.67,2.8
+"837","Jason","Ellison","SF","Outfielder",70,180,28.91,2.57142857142857
+"838","Randy","Winn","SF","Outfielder",74,197,32.73,2.66216216216216
+"839","Dave","Roberts","SF","Outfielder",70,180,34.75,2.57142857142857
+"840","Ryan","Klesko","SF","Outfielder",75,220,35.72,2.93333333333333
+"841","Barry","Bonds","SF","Outfielder",74,228,42.6,3.08108108108108
+"842","Brian","Wilson","SF","Relief Pitcher",73,205,24.96,2.80821917808219
+"843","Merkin","Valdez","SF","Relief Pitcher",77,208,25.3,2.7012987012987
+"844","Billy","Sadler","SF","Relief Pitcher",72,190,25.44,2.63888888888889
+"845","Pat","Misch","SF","Relief Pitcher",74,170,25.53,2.2972972972973
+"846","Kevin","Correia","SF","Relief Pitcher",75,200,26.52,2.66666666666667
+"847","Scott","Munter","SF","Relief Pitcher",78,240,26.98,3.07692307692308
+"848","Brad","Hennessey","SF","Relief Pitcher",74,185,27.06,2.5
+"849","Vinnie","Chulk","SF","Relief Pitcher",74,195,28.2,2.63513513513514
+"850","Jack","Taschner","SF","Relief Pitcher",75,207,28.86,2.76
+"851","Armando","Benitez","SF","Relief Pitcher",76,229,34.32,3.01315789473684
+"852","Steve","Kline","SF","Relief Pitcher",73,215,34.52,2.94520547945205
+"853","Kevin","Frandsen","SF","Second Baseman",72,175,24.77,2.43055555555556
+"854","Ray","Durham","SF","Second Baseman",68,196,35.25,2.88235294117647
+"855","Omar","Vizquel","SF","Shortstop",69,175,39.85,2.53623188405797
+"856","Kelyn","Acosta","SF","Starting Pitcher",73,204,21.85,2.79452054794521
+"857","Matt","Cain","SF","Starting Pitcher",75,216,22.41,2.88
+"858","Jonathan","Sanchez","SF","Starting Pitcher",74,165,24.28,2.22972972972973
+"859","Noah","Lowry","SF","Starting Pitcher",74,210,26.39,2.83783783783784
+"860","Barry","Zito","SF","Starting Pitcher",76,215,28.8,2.82894736842105
+"861","Matt","Morris","SF","Starting Pitcher",77,220,32.56,2.85714285714286
+"862","Russ","Ortiz","SF","Starting Pitcher",73,208,32.74,2.84931506849315
+"863","Pedro","Feliz","SF","Third Baseman",73,205,31.84,2.80821917808219
+"864","Rich","Aurilia","SF","Third Baseman",73,189,35.49,2.58904109589041
+"865","Yadier","Molina","STL","Catcher",71,225,24.63,3.16901408450704
+"866","Gary","Bennett","STL","Catcher",72,208,34.87,2.88888888888889
+"867","Albert","Pujols","STL","First Baseman",75,225,27.12,3
+"868","John","Nelson","STL","First Baseman",73,190,27.99,2.6027397260274
+"869","Chris","Duncan","STL","Outfielder",77,210,25.82,2.72727272727273
+"870","Skip","Schumaker","STL","Outfielder",70,175,27.07,2.5
+"871","John","Rodriguez","STL","Outfielder",72,205,29.11,2.84722222222222
+"872","Juan","Encarnacion","STL","Outfielder",75,215,30.98,2.86666666666667
+"873","Jim","Edmonds","STL","Outfielder",73,212,36.68,2.9041095890411
+"874","So","Taguchi","STL","Outfielder",70,163,37.66,2.32857142857143
+"875","Brad","Thompson","STL","Relief Pitcher",73,190,25.08,2.6027397260274
+"876","Chris","Narveson","STL","Relief Pitcher",75,205,25.19,2.73333333333333
+"877","Tyler","Johnson","STL","Relief Pitcher",74,180,25.73,2.43243243243243
+"878","Josh","Kinney","STL","Relief Pitcher",73,195,27.92,2.67123287671233
+"879","Josh","Hancock","STL","Relief Pitcher",75,205,28.89,2.73333333333333
+"880","Randy","Keisler","STL","Relief Pitcher",75,190,31.01,2.53333333333333
+"881","Randy","Flores","STL","Relief Pitcher",72,180,31.58,2.5
+"882","Braden","Looper","STL","Relief Pitcher",75,220,32.34,2.93333333333333
+"883","Jason","Isringhausen","STL","Relief Pitcher",75,230,34.48,3.06666666666667
+"884","Ricardo","Rincon","STL","Relief Pitcher",69,190,36.88,2.7536231884058
+"885","Russ","Springer","STL","Relief Pitcher",76,211,38.31,2.77631578947368
+"886","Aaron","Miles","STL","Second Baseman",67,180,30.21,2.6865671641791
+"887","Adam","Kennedy","STL","Second Baseman",73,185,31.14,2.53424657534247
+"888","David","Eckstein","STL","Shortstop",67,165,32.11,2.46268656716418
+"889","Anthony","Reyes","STL","Starting Pitcher",74,215,25.37,2.9054054054054
+"890","Adam","Wainwright","STL","Starting Pitcher",79,205,25.5,2.59493670886076
+"891","Mark","Mulder","STL","Starting Pitcher",78,208,29.57,2.66666666666667
+"892","Kip","Wells","STL","Starting Pitcher",75,200,29.86,2.66666666666667
+"893","Chris","Carpenter","STL","Starting Pitcher",78,230,31.84,2.94871794871795
+"894","Ryan","Franklin","STL","Starting Pitcher",75,180,33.99,2.4
+"895","Scott","Rolen","STL","Third Baseman",76,240,31.91,3.1578947368421
+"896","Scott","Spiezio","STL","Third Baseman",74,220,34.44,2.97297297297297
+"897","Dioner","Navarro","TB","Catcher",70,190,23.06,2.71428571428571
+"898","Shawn","Riggans","TB","Catcher",74,190,26.6,2.56756756756757
+"899","Josh","Paul","TB","Catcher",73,200,31.78,2.73972602739726
+"900","Jonny","Gomes","TB","Designated Hitter",73,205,26.27,2.80821917808219
+"901","Ty","Wigginton","TB","First Baseman",72,200,29.39,2.77777777777778
+"902","Delmon","Young","TB","Outfielder",75,205,21.46,2.73333333333333
+"903","Elijah","Dukes","TB","Outfielder",74,220,22.68,2.97297297297297
+"904","Rocco","Baldelli","TB","Outfielder",76,187,25.43,2.46052631578947
+"905","Carl","Crawford","TB","Outfielder",74,219,25.57,2.95945945945946
+"906","Greg","Norton","TB","Outfielder",73,200,34.65,2.73972602739726
+"907","Jae-Kuk","Ryu","TB","Relief Pitcher",75,220,23.75,2.93333333333333
+"908","Seth","McClung","TB","Relief Pitcher",78,235,26.06,3.01282051282051
+"909","Chad","Orvella","TB","Relief Pitcher",71,190,26.41,2.67605633802817
+"910","Jeff","Ridgway","TB","Relief Pitcher",75,180,26.54,2.4
+"911","Ruddy","Lugo","TB","Relief Pitcher",70,205,26.77,2.92857142857143
+"912","Jon","Switzer","TB","Relief Pitcher",75,191,27.55,2.54666666666667
+"913","Juan","Salas","TB","Relief Pitcher",74,190,28.31,2.56756756756757
+"914","Scott","Dohmann","TB","Relief Pitcher",73,181,29.04,2.47945205479452
+"915","Shawn","Camp","TB","Relief Pitcher",73,200,31.28,2.73972602739726
+"916","Dan","Miceli","TB","Relief Pitcher",72,215,36.47,2.98611111111111
+"917","Jorge","Cantu","TB","Second Baseman",73,184,25.08,2.52054794520548
+"918","Brendan","Harris","TB","Second Baseman",73,200,26.51,2.73972602739726
+"919","Ben","Zobrist","TB","Shortstop",75,200,25.76,2.66666666666667
+"920","Scott","Kazmir","TB","Starting Pitcher",72,170,23.1,2.36111111111111
+"921","Edwin","Jackson","TB","Starting Pitcher",75,190,23.47,2.53333333333333
+"922","J.P.","Howell","TB","Starting Pitcher",72,175,23.85,2.43055555555556
+"923","Jason","Hammel","TB","Starting Pitcher",78,200,24.49,2.56410256410256
+"924","James","Shields","TB","Starting Pitcher",76,214,25.19,2.81578947368421
+"925","Brian","Stokes","TB","Starting Pitcher",73,200,27.48,2.73972602739726
+"926","Tim","Corcoran","TB","Starting Pitcher",74,205,28.88,2.77027027027027
+"927","Casey","Fossum","TB","Starting Pitcher",73,160,29.14,2.19178082191781
+"928","Jae","Seo","TB","Starting Pitcher",73,215,29.77,2.94520547945205
+"929","B.J.","Upton","TB","Third Baseman",75,180,22.52,2.4
+"930","Chris","Stewart","TEX","Catcher",76,205,25.03,2.69736842105263
+"931","Guillermo","Quiroz","TEX","Catcher",73,202,25.25,2.76712328767123
+"932","Gerald","Laird","TEX","Catcher",74,220,27.3,2.97297297297297
+"933","Miguel","Ojeda","TEX","Catcher",74,190,32.08,2.56756756756757
+"934","Jason","Botts","TEX","Designated Hitter",77,250,26.6,3.24675324675325
+"935","Mark","Teixeira","TEX","First Baseman",75,220,26.89,2.93333333333333
+"936","Nelson","Cruz","TEX","Outfielder",75,175,26.66,2.33333333333333
+"937","Marlon","Byrd","TEX","Outfielder",72,229,29.5,3.18055555555556
+"938","Brad","Wilkerson","TEX","Outfielder",72,206,29.75,2.86111111111111
+"939","Frank","Catalanotto","TEX","Outfielder",71,195,32.84,2.74647887323944
+"940","Sammy","Sosa","TEX","Outfielder",72,220,38.3,3.05555555555556
+"941","Kenny","Lofton","TEX","Outfielder",72,180,39.75,2.5
+"942","Scott","Feldman","TEX","Relief Pitcher",77,210,24.06,2.72727272727273
+"943","Wes","Littleton","TEX","Relief Pitcher",74,210,24.49,2.83783783783784
+"944","Josh","Rupe","TEX","Relief Pitcher",74,200,24.53,2.7027027027027
+"945","Francisco","Cruceta","TEX","Relief Pitcher",74,180,25.66,2.43243243243243
+"946","C.J.","Wilson","TEX","Relief Pitcher",74,200,26.28,2.7027027027027
+"947","Frank","Francisco","TEX","Relief Pitcher",74,180,27.47,2.43243243243243
+"948","Joaquin","Benoit","TEX","Relief Pitcher",75,220,29.6,2.93333333333333
+"949","Rick","Bauer","TEX","Relief Pitcher",78,223,30.14,2.85897435897436
+"950","Eric","Gagne","TEX","Relief Pitcher",74,234,31.15,3.16216216216216
+"951","Akinori","Otsuka","TEX","Relief Pitcher",72,200,35.13,2.77777777777778
+"952","Ron","Mahay","TEX","Relief Pitcher",74,185,35.67,2.5
+"953","Ian","Kinsler","TEX","Second Baseman",72,175,24.69,2.43055555555556
+"954","Joaquin","Arias","TEX","Shortstop",73,160,22.44,2.19178082191781
+"955","Michael","Young","TEX","Shortstop",73,190,30.36,2.6027397260274
+"956","Brandon","McCarthy","TEX","Starting Pitcher",79,190,23.65,2.40506329113924
+"957","Edinson","Volquez","TEX","Starting Pitcher",73,190,23.66,2.6027397260274
+"958","Robinson","Tejeda","TEX","Starting Pitcher",75,188,24.94,2.50666666666667
+"959","A.J.","Murray","TEX","Starting Pitcher",75,200,24.96,2.66666666666667
+"960","John","Koronka","TEX","Starting Pitcher",73,180,26.66,2.46575342465753
+"961","John","Rheinecker","TEX","Starting Pitcher",74,230,27.76,3.10810810810811
+"962","Vicente","Padilla","TEX","Starting Pitcher",74,219,29.42,2.95945945945946
+"963","Kevin","Millwood","TEX","Starting Pitcher",76,235,32.18,3.0921052631579
+"964","Hank","Blalock","TEX","Third Baseman",73,200,26.27,2.73972602739726
+"965","Jason","Phillips","TOR","Catcher",73,177,30.42,2.42465753424658
+"966","Gregg","Zaun","TOR","Catcher",70,190,35.88,2.71428571428571
+"967","Adam","Lind","TOR","Designated Hitter",74,195,23.62,2.63513513513514
+"968","Frank","Thomas","TOR","Designated Hitter",77,275,38.76,3.57142857142857
+"969","Lyle","Overbay","TOR","First Baseman",74,227,30.09,3.06756756756757
+"970","Alex","Rios","TOR","Outfielder",77,194,26.03,2.51948051948052
+"971","Vernon","Wells","TOR","Outfielder",73,225,28.23,3.08219178082192
+"972","Reed","Johnson","TOR","Outfielder",70,180,30.23,2.57142857142857
+"973","Davis","Romero","TOR","Relief Pitcher",70,155,23.92,2.21428571428571
+"974","Brandon","League","TOR","Relief Pitcher",75,192,23.96,2.56
+"975","Jean","Machi","TOR","Relief Pitcher",72,160,24.08,2.22222222222222
+"976","Dustin","McGowan","TOR","Relief Pitcher",75,220,24.94,2.93333333333333
+"977","Jeremy","Accardo","TOR","Relief Pitcher",74,190,25.23,2.56756756756757
+"978","Tracy","Thorpe","TOR","Relief Pitcher",76,250,26.21,3.28947368421053
+"979","Francisco","Rosario","TOR","Relief Pitcher",72,197,26.42,2.73611111111111
+"980","Matt","Roney","TOR","Relief Pitcher",75,245,27.14,3.26666666666667
+"981","Brian","Tallet","TOR","Relief Pitcher",79,208,29.44,2.63291139240506
+"982","Jason","Frasor","TOR","Relief Pitcher",70,170,29.56,2.42857142857143
+"983","Scott","Downs","TOR","Relief Pitcher",74,190,30.95,2.56756756756757
+"984","B.J.","Ryan","TOR","Relief Pitcher",78,249,31.17,3.19230769230769
+"985","Aaron","Hill","TOR","Second Baseman",71,195,24.94,2.74647887323944
+"986","Russ","Adams","TOR","Second Baseman",73,180,26.5,2.46575342465753
+"987","Jason","Smith","TOR","Second Baseman",75,199,29.6,2.65333333333333
+"988","John","McDonald","TOR","Shortstop",71,175,32.43,2.46478873239437
+"989","Royce","Clayton","TOR","Shortstop",72,185,37.16,2.56944444444444
+"990","Shaun","Marcum","TOR","Starting Pitcher",72,180,25.21,2.5
+"991","Casey","Janssen","TOR","Starting Pitcher",76,205,25.45,2.69736842105263
+"992","Gustavo","Chacin","TOR","Starting Pitcher",71,193,26.24,2.71830985915493
+"993","Roy","Halladay","TOR","Starting Pitcher",78,230,29.8,2.94871794871795
+"994","A.J.","Burnett","TOR","Starting Pitcher",76,230,30.15,3.02631578947368
+"995","Tomo","Ohka","TOR","Starting Pitcher",73,200,30.95,2.73972602739726
+"996","John","Thomson","TOR","Starting Pitcher",75,220,33.41,2.93333333333333
+"997","John","Hattig","TOR","Third Baseman",74,210,27.01,2.83783783783784
+"998","Troy","Glaus","TOR","Third Baseman",77,240,30.57,3.11688311688312
+"999","Jesus","Flores","WAS","Catcher",73,180,22.34,2.46575342465753
+"1000","Brian","Schneider","WAS","Catcher",73,196,30.26,2.68493150684932
+"1001","Larry","Broadway","WAS","First Baseman",76,230,26.2,3.02631578947368
+"1002","Nick","Johnson","WAS","First Baseman",75,224,28.45,2.98666666666667
+"1003","Kory","Casto","WAS","Outfielder",73,200,25.23,2.73972602739726
+"1004","Chris","Snelling","WAS","Outfielder",70,165,25.24,2.35714285714286
+"1005","Austin","Kearns","WAS","Outfielder",75,220,26.78,2.93333333333333
+"1006","Nook","Logan","WAS","Outfielder",74,180,27.26,2.43243243243243
+"1007","Mike","Restovich","WAS","Outfielder",76,257,28.16,3.38157894736842
+"1008","Ryan","Church","WAS","Outfielder",73,190,28.38,2.6027397260274
+"1009","Alex","Escobar","WAS","Outfielder",73,190,28.48,2.6027397260274
+"1010","Emiliano","Fruto","WAS","Relief Pitcher",75,235,22.73,3.13333333333333
+"1011","Ryan","Wagner","WAS","Relief Pitcher",76,210,24.63,2.76315789473684
+"1012","Chad","Cordero","WAS","Relief Pitcher",72,198,24.95,2.75
+"1013","Jerome","Williams","WAS","Relief Pitcher",75,246,25.24,3.28
+"1014","Beltran","Perez","WAS","Relief Pitcher",74,180,25.35,2.43243243243243
+"1015","Brett","Campbell","WAS","Relief Pitcher",72,170,25.37,2.36111111111111
+"1016","Jason","Bergmann","WAS","Relief Pitcher",76,190,25.43,2.5
+"1017","Levale","Speigner","WAS","Relief Pitcher",71,170,26.43,2.3943661971831
+"1018","Jon","Rauch","WAS","Relief Pitcher",83,260,28.42,3.13253012048193
+"1019","Chris","Schroder","WAS","Relief Pitcher",75,210,28.53,2.8
+"1020","Luis","Ayala","WAS","Relief Pitcher",74,186,29.13,2.51351351351351
+"1021","Saul","Rivera","WAS","Relief Pitcher",71,150,29.23,2.11267605633803
+"1022","Chris","Booker","WAS","Relief Pitcher",75,230,30.22,3.06666666666667
+"1023","Micah","Bowie","WAS","Relief Pitcher",76,203,32.3,2.67105263157895
+"1024","Bernie","Castro","WAS","Second Baseman",70,160,27.63,2.28571428571429
+"1025","Josh","Wilson","WAS","Shortstop",73,178,25.93,2.43835616438356
+"1026","Felipe","Lopez","WAS","Shortstop",73,185,26.8,2.53424657534247
+"1027","Cristian","Guzman","WAS","Shortstop",72,205,28.94,2.84722222222222
+"1028","Joel","Hanrahan","WAS","Starting Pitcher",75,215,25.4,2.86666666666667
+"1029","Shawn","Hill","WAS","Starting Pitcher",74,185,25.84,2.5
+"1030","Mike","O'Connor","WAS","Starting Pitcher",75,170,26.54,2.26666666666667
+"1031","Billy","Traber","WAS","Starting Pitcher",77,205,27.45,2.66233766233766
+"1032","Tim","Redding","WAS","Starting Pitcher",72,200,29.05,2.77777777777778
+"1033","John","Patterson","WAS","Starting Pitcher",77,208,29.08,2.7012987012987
+"1034","Ryan","Zimmerman","WAS","Third Baseman",75,210,22.42,2.8

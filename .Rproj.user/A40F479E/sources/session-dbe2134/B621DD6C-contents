@@ -34,9 +34,8 @@ weight(arz) # call the function. The weight of the heaviest arz player is 254 po
 mean(clean.data$Age) # the average age is 28.7 
 
 # Add a column called BMI and add the body mass index for each player.
-clean.data <- clean.data |> mutate(BMI = Weight.pounds. / Height.inches.  ) # BMI = Weight/height 
+BMI.data <- clean.data |> mutate(BMI = Weight.pounds. / Height.inches.  ) # BMI = Weight/height 
 
-clean.data
+BMI.data
 # Write the new, cleaned data.frame (including BMI) to a CSV file and open it in Excel to check the file.
-
-
+write.csv(BMI.data, "clean-with-BMI.csv")
