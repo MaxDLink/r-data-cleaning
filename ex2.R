@@ -1,0 +1,19 @@
+# Read and clean the MLB data set (MLB_cleaned.csv Download MLB_cleaned.csv, MLB_cleaned.xlsx Download MLB_cleaned.xlsx) (Links to an external site.). Check the data with the function summary() and ensure you get the appropriate statistics for all columns.
+
+# Select only the players for the team ‘ARZ’. Compare the column Team with ‘ARZ’ and use subsetting to select the rows.
+
+# How many players does the team ‘ARZ’ have in the data set?
+
+# What is the weight of the heaviest player on the team, ‘ARZ’ (use a function)?
+
+# What is the average age of all players in the dataset?
+
+# Add a column called BMI and add the body mass indexLinks to an external site.. (Lin) for each player.
+
+# Write the new, cleaned data.frame (including BMI) to a CSV file and open it in Excel to check the file.
+
+library(tidyverse)
+
+data <- read.csv("data.csv", stringAsFactors=FALSE)
+
+data 
